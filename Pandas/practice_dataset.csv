@@ -1,0 +1,1001 @@
+CustomerID,Name,Age,Gender,Email,City,Signup_Date,Last_Login,Subscription_Type,Monthly_Charges,Total_Spend,Ratings,Satisfaction_Score,Is_Premium
+CUST_0001,Lori Fritz,56.0,Female,woodangela@example.net,New York,2022-02-26,2024-10-09 00:06:31,Basic,103.29,3833.48,1.3,9,False
+CUST_0002,Jeff Bush,69.0,Male,amy61@example.com,Paris,2022-02-25,,Basic,70.94,2575.07,3.9,3,True
+CUST_0003,John Thompson MD,46.0,Male,rebeccabowman@example.com,Tokyo,2023-12-30,2024-08-25 07:47:34,Basic,46.53,4943.02,1.8,5,True
+CUST_0004,Alexis Anderson,32.0,Male,cheryl21@example.com,New York,2024-02-23,2024-05-11 06:12:53,Enterprise,68.8,2379.86,3.8,4,False
+CUST_0005,Michael Kidd,60.0,Male,amygregory@example.org,Paris,2023-03-31,2024-02-09 21:42:38,Basic,195.23,385.37,2.6,10,True
+CUST_0006,Wendy Lewis,25.0,Male,bbrown@example.net,New York,2024-08-07,,Premium,88.11,1385.14,2.7,6,True
+CUST_0007,Patricia Rodriguez,38.0,Male,jacobskaren@example.net,New York,2022-02-14,2024-05-18 10:20:17,Basic,94.5,2236.75,2.9,10,False
+CUST_0008,Kathleen Williams,56.0,Male,xturner@example.net,Sydney,2022-11-07,2024-08-25 10:38:40,Basic,119.54,868.82,2.5,4,False
+CUST_0009,Megan Gonzalez,36.0,Male,,Paris,2023-11-25,2024-03-30 04:33:48,Basic,196.83,4743.07,1.4,8,False
+CUST_0010,Karina Lowe,40.0,Female,carpenterrachael@example.org,Tokyo,2024-02-13,2024-08-01 07:56:44,Basic,55.9,3857.56,2.2,3,False
+CUST_0011,Amanda Gilbert,28.0,Female,dennissmith@example.net,Tokyo,2022-10-20,2024-11-22 01:20:02,Basic,139.44,1414.61,3.7,5,False
+CUST_0012,Emily Campos,28.0,Female,billy13@example.com,Paris,2024-08-26,2024-05-03 16:53:58,Premium,146.04,2994.94,3.7,1,True
+CUST_0013,Lisa Mcgee,41.0,Female,boneill@example.org,Sydney,2022-04-29,2024-04-15 21:39:56,Premium,125.39,3635.1,2.1,6,False
+CUST_0014,Jennifer Williams,53.0,Female,rgreen@example.org,London,2023-03-20,2025-01-18 20:58:36,Basic,26.83,4712.27,2.8,5,False
+CUST_0015,Patricia Martinez,57.0,Male,,New York,2024-05-13,2024-02-14 22:47:10,Basic,138.61,4420.01,1.8,8,False
+CUST_0016,Mary Riley PhD,41.0,Female,benjamin21@example.org,Sydney,2024-11-29,2024-03-03 10:19:17,Enterprise,22.18,2624.44,1.8,9,False
+CUST_0017,Sydney Snyder,20.0,Female,mccannjustin@example.org,Paris,2023-12-29,2024-12-08 21:17:38,Basic,123.27,3895.8,1.1,8,True
+CUST_0018,April Hurst,39.0,Female,youngjoseph@example.org,New York,2024-12-20,2024-12-07 01:55:39,Basic,150.52,2854.51,4.6,8,True
+CUST_0019,Lisa Hill,19.0,Male,,Tokyo,2023-11-14,2024-04-14 12:09:42,Basic,50.08,2808.25,1.8,3,False
+CUST_0020,Anna Cantrell,41.0,Male,stephaniejohnson@example.org,London,2023-07-19,2024-09-01 08:21:38,Premium,169.91,662.24,1.9,4,False
+CUST_0021,Erica Salazar,61.0,Male,christystevens@example.org,Tokyo,2024-09-17,2024-05-04 02:42:45,Enterprise,15.77,718.07,2.1,4,False
+CUST_0022,Richard Guzman MD,47.0,Male,stewartjessica@example.org,Paris,2023-09-21,2024-03-09 12:06:23,Basic,170.32,2694.71,1.5,5,True
+CUST_0023,Deborah Phillips,55.0,Female,amandabrown@example.org,New York,2023-03-22,2025-01-21 21:55:42,Premium,97.46,1417.42,3.6,9,False
+CUST_0024,Michael Johnson,19.0,Female,colliervickie@example.org,Paris,2022-08-17,2024-02-24 18:43:26,Premium,51.34,203.08,1.3,9,False
+CUST_0025,Joshua Fleming,38.0,Male,rodriguezmary@example.com,New York,2023-12-18,2024-09-16 01:55:59,Basic,35.42,3641.91,1.5,10,False
+CUST_0026,Ryan Benitez,50.0,Other,deanscott@example.org,Sydney,2023-11-16,2024-07-23 02:15:10,Basic,191.13,259.18,3.6,1,False
+CUST_0027,Valerie Odom MD,29.0,Female,aaronballard@example.org,London,2023-12-12,2024-03-09 04:43:18,Basic,23.81,3016.86,2.4,8,False
+CUST_0028,Andrew Sandoval,39.0,Male,vwatson@example.com,Sydney,2022-10-19,2024-05-04 16:41:13,Enterprise,47.83,2742.05,3.8,1,True
+CUST_0029,Brett Reilly,,Male,judysmith@example.org,Sydney,2023-05-25,2024-06-21 08:44:40,Basic,76.09,4847.19,3.2,2,False
+CUST_0030,Denise Taylor,42.0,Male,elizabethbautista@example.net,Paris,2022-06-08,2024-10-16 11:31:28,Premium,127.84,2472.64,2.0,7,False
+CUST_0031,Justin Turner,66.0,Male,gilmorechristine@example.org,London,2024-01-11,2024-07-25 07:26:36,Basic,113.51,411.65,3.6,8,True
+CUST_0032,Ross Robertson,44.0,Male,aaron88@example.net,New York,2022-07-03,,Premium,33.87,2803.27,1.5,1,True
+CUST_0033,Richard Anderson,59.0,Male,jonesgabriel@example.com,New York,2023-09-16,2024-10-26 09:28:30,Basic,65.05,,3.1,3,False
+CUST_0034,Patrick Ford,45.0,Male,ehernandez@example.com,Tokyo,2022-06-25,2025-01-10 02:54:54,Basic,55.36,4984.56,2.7,7,False
+CUST_0035,Scott Cole,33.0,Male,poneill@example.org,New York,2024-02-13,2024-11-05 07:40:00,Premium,50.57,2208.68,2.1,9,False
+CUST_0036,Maria Moss,32.0,Female,jill24@example.org,Paris,2024-02-02,2024-10-08 23:02:32,Premium,88.12,1669.46,3.4,8,True
+CUST_0037,Christina Tucker,64.0,Male,hicksvanessa@example.org,Sydney,2024-02-24,2024-06-02 15:58:33,Premium,143.77,4542.6,4.5,8,False
+CUST_0038,Tara Thomas,68.0,Female,gtaylor@example.com,Sydney,2023-02-06,,Basic,51.32,1037.09,5.0,9,False
+CUST_0039,Richard Lopez,,Male,autumn04@example.com,Sydney,2022-04-09,2024-02-02 11:53:05,Premium,79.67,3115.6,3.4,10,False
+CUST_0040,Vincent Hall,69.0,Other,agriffin@example.com,London,2023-02-01,2024-03-09 19:58:28,Basic,84.27,2088.0,2.6,3,False
+CUST_0041,Spencer Tucker,20.0,Male,,New York,2022-09-14,2025-01-05 14:38:59,Basic,195.53,301.3,1.9,8,False
+CUST_0042,Matthew Lee,54.0,Male,brucebradley@example.org,Paris,2023-07-20,2025-01-09 11:14:35,Basic,191.39,1801.71,2.0,1,False
+CUST_0043,Casey Anderson,68.0,Other,porterbrandi@example.net,London,2024-11-18,2024-03-27 00:25:40,Basic,162.03,1399.62,2.9,8,False
+CUST_0044,Andrea Newman,24.0,Female,tylerarroyo@example.org,Tokyo,2022-07-15,,Basic,55.92,3461.85,2.5,7,False
+CUST_0045,Emma Saunders,38.0,Female,tdavis@example.com,Paris,2025-01-24,2024-08-25 18:21:07,Enterprise,22.93,4749.07,4.7,8,False
+CUST_0046,Jacob Lin,26.0,Male,lynnscott@example.net,Paris,2023-05-11,2024-08-20 07:31:14,Basic,70.21,1413.43,2.5,1,False
+CUST_0047,Kevin Lynch,56.0,Male,akelly@example.net,Paris,2022-12-22,,Premium,60.69,4076.18,2.5,6,False
+CUST_0048,Robert Rodriguez,35.0,Female,eric25@example.com,Sydney,2022-08-13,2024-02-21 10:32:18,Basic,106.13,,2.5,7,False
+CUST_0049,Robin Murphy,21.0,Other,sgomez@example.com,Paris,2024-10-15,2024-12-31 06:02:45,Basic,157.77,2736.79,4.3,5,False
+CUST_0050,Marvin West,42.0,Female,allenkimberly@example.com,New York,2023-02-20,2024-10-22 08:58:43,Basic,173.08,445.7,3.6,5,False
+CUST_0051,Jason Edwards,31.0,Female,sarah53@example.net,Paris,2023-01-31,2024-09-14 22:32:44,Enterprise,170.52,4676.76,3.5,7,False
+CUST_0052,Brianna Estes,67.0,Male,jlevy@example.net,Sydney,2025-01-18,,Premium,78.34,3855.12,2.3,3,False
+CUST_0053,Leslie Herrera,26.0,Female,zthompson@example.com,Paris,2023-12-07,,Enterprise,140.57,3323.95,4.3,6,False
+CUST_0054,Robert Brown,,Male,jonathanhanson@example.net,Tokyo,2024-06-07,2024-11-14 06:27:00,Enterprise,69.44,4137.09,1.2,7,False
+CUST_0055,Robert Schmidt,19.0,Male,xrivera@example.net,Tokyo,2024-03-03,2024-04-26 11:12:24,Basic,21.57,3272.85,4.5,1,True
+CUST_0056,Teresa Cochran,37.0,Male,frobertson@example.org,Sydney,2023-12-20,2024-07-01 07:20:55,Basic,143.3,4847.83,3.1,2,False
+CUST_0057,Shannon Tucker,,Female,samanthamcgee@example.org,New York,2024-01-01,2025-01-10 21:25:42,Premium,11.87,3598.39,2.6,4,True
+CUST_0058,Kevin Keith,64.0,Male,laura66@example.com,New York,2023-11-08,2024-06-08 18:19:55,Basic,87.74,4630.83,3.0,8,True
+CUST_0059,David Mercado,24.0,Male,desiree51@example.org,London,2024-08-22,2024-10-01 02:09:55,Basic,72.58,2633.95,3.7,10,False
+CUST_0060,Mackenzie Benson,61.0,Female,,Sydney,2022-02-26,2024-03-23 07:03:23,Basic,141.74,673.62,1.1,6,True
+CUST_0061,Thomas White,25.0,Male,,Paris,2024-10-21,2024-06-23 20:53:08,Basic,155.59,,4.5,1,False
+CUST_0062,Amy Thompson MD,64.0,Female,vcoleman@example.com,Sydney,2022-06-14,2024-07-19 12:05:09,Basic,67.78,721.68,2.8,10,True
+CUST_0063,Eric Rose,52.0,Male,jeremy30@example.com,London,2023-02-07,,Basic,164.21,,2.4,5,True
+CUST_0064,Jessica Moore,31.0,Female,lozanorichard@example.net,Sydney,2024-06-17,2024-04-08 03:58:23,Basic,65.84,2464.22,1.6,7,False
+CUST_0065,Steven Jones,34.0,Female,jacquelinewhite@example.org,Sydney,2024-08-15,2025-01-09 01:24:32,Basic,94.8,3150.62,2.8,6,False
+CUST_0066,Dr. Shelby Rivera,53.0,Male,foleymary@example.net,London,2023-08-03,2024-06-19 22:27:55,Basic,148.13,149.23,3.0,9,False
+CUST_0067,Taylor Kidd,67.0,Male,kmartin@example.org,New York,2023-09-18,2024-08-30 01:12:41,Basic,141.65,1054.72,2.6,8,False
+CUST_0068,Eric Sparks,57.0,Male,loweryheather@example.net,Paris,2022-12-08,2024-02-22 01:24:30,Premium,197.6,2507.52,3.7,4,True
+CUST_0069,Julie Nichols,21.0,Male,saramitchell@example.net,London,2024-09-01,2024-03-28 13:15:56,Basic,52.78,4757.47,2.7,5,False
+CUST_0070,Melissa Alexander,19.0,Other,hmcfarland@example.com,Tokyo,2024-05-28,,Basic,135.84,1979.68,4.8,7,False
+CUST_0071,David Morgan,23.0,Male,frivera@example.net,New York,2024-06-12,,Premium,125.84,2179.42,3.4,8,False
+CUST_0072,Dr. Andrea Kelley DDS,59.0,Female,carrjanet@example.net,Tokyo,2023-02-11,2024-04-21 06:18:34,Basic,183.87,3602.01,4.2,5,False
+CUST_0073,Eric Ali,21.0,Male,johnny77@example.org,New York,2022-03-21,,Basic,39.71,3058.58,1.4,9,False
+CUST_0074,Melissa Wallace,46.0,Female,michellebeck@example.com,Paris,2024-02-11,2024-10-02 01:39:01,Premium,152.84,1564.74,2.6,10,False
+CUST_0075,Devin Barnes,35.0,Female,steven01@example.com,Paris,2023-12-03,2024-08-27 09:01:12,Basic,117.97,2113.0,2.3,4,False
+CUST_0076,Ryan Williams,,Female,,Sydney,2024-11-19,2024-03-31 04:43:41,Premium,62.19,1166.73,3.3,4,False
+CUST_0077,Toni Jones,61.0,Female,jonesjulie@example.net,Tokyo,2022-08-19,2024-09-05 19:46:23,Premium,100.14,4833.51,4.4,8,False
+CUST_0078,Chad Stark,51.0,Male,dayjessica@example.com,New York,2024-10-06,2024-09-27 23:39:36,Premium,73.42,740.11,1.3,1,True
+CUST_0079,Dawn Reynolds,27.0,Male,,Paris,2024-11-13,2024-09-16 00:24:30,Basic,120.07,1922.0,1.3,8,False
+CUST_0080,Lisa Murray,53.0,Other,lisa62@example.com,London,2023-08-22,2024-11-29 06:03:54,Basic,178.91,226.61,4.4,5,False
+CUST_0081,Melissa Elliott,31.0,Female,,Paris,2022-06-05,,Basic,118.17,1186.72,1.9,1,False
+CUST_0082,Rachel Anderson,48.0,Other,rarmstrong@example.org,London,2023-05-16,2024-04-11 18:22:18,Basic,130.03,3924.31,3.7,4,False
+CUST_0083,Vanessa Ball,,Male,crystalmartin@example.com,New York,2023-05-24,2024-05-31 14:54:56,Basic,108.56,1085.76,3.2,2,True
+CUST_0084,Morgan Massey,32.0,Female,riveraolivia@example.com,Paris,2022-03-20,2025-01-03 10:36:35,Basic,19.72,492.31,4.3,4,False
+CUST_0085,Stacy Morales,25.0,Other,andreaanderson@example.org,Paris,2023-03-06,2025-01-17 17:12:27,Basic,54.24,2424.82,1.5,8,False
+CUST_0086,Maria Church,31.0,Male,steelephillip@example.net,New York,2022-06-28,,Basic,103.48,148.85,1.5,5,True
+CUST_0087,Jonathan Alexander,40.0,Male,dmiller@example.org,Paris,2024-08-27,2025-01-14 22:46:06,Basic,68.94,515.35,3.2,1,False
+CUST_0088,Megan Parker,,Female,garciasarah@example.net,London,2024-07-27,2024-05-16 05:17:45,Basic,44.54,4057.37,4.8,7,False
+CUST_0089,Robert Bishop,,Female,rtucker@example.net,Paris,2023-02-16,2024-05-31 16:24:18,Premium,105.79,3880.22,2.7,1,False
+CUST_0090,Justin Jackson,33.0,Female,,Tokyo,2024-06-13,2024-11-15 06:53:05,Basic,71.33,4584.18,2.3,9,False
+CUST_0091,Christopher White,62.0,Male,hcruz@example.org,Sydney,2023-03-05,2024-03-14 14:40:44,Basic,59.04,4287.13,3.4,3,False
+CUST_0092,Vanessa Moody,35.0,Female,vrichardson@example.org,London,2023-06-09,,Enterprise,98.16,3447.56,4.7,3,True
+CUST_0093,Karen Washington,,Male,flee@example.com,Tokyo,2022-11-15,2024-09-03 18:17:27,Basic,35.32,356.43,4.3,6,False
+CUST_0094,Brenda Maldonado,41.0,Male,kenneth66@example.org,New York,2022-10-11,,Basic,186.27,,5.0,10,False
+CUST_0095,Debra May,43.0,Male,rasmussenlaura@example.com,London,2023-10-06,2024-05-13 16:12:44,Basic,174.86,4243.0,1.1,6,True
+CUST_0096,Aaron Martinez,42.0,Female,jennifer44@example.net,Sydney,2023-12-15,2024-08-20 18:18:11,Premium,144.45,4015.5,1.5,6,False
+CUST_0097,Amy Williams MD,,Female,munozalexandria@example.org,Sydney,2023-03-01,2024-12-10 10:02:21,Basic,30.18,2591.55,3.4,1,False
+CUST_0098,Wayne Johnson,58.0,Female,brendalynch@example.org,New York,2024-01-29,2024-08-15 03:27:34,Basic,157.42,1241.22,4.3,5,False
+CUST_0099,Colleen Cantrell,46.0,Male,pmiller@example.org,New York,2023-04-20,,Basic,163.51,4242.12,2.1,6,False
+CUST_0100,Jeff Williams,,Female,andreagarcia@example.org,London,2023-09-03,2024-09-22 07:17:15,Premium,155.88,3663.1,2.0,8,False
+CUST_0101,Joseph Kelley,62.0,Male,ballen@example.com,Paris,2022-05-26,,Basic,31.65,4905.73,4.1,1,False
+CUST_0102,Maria Gomez,18.0,Female,crossdavid@example.org,New York,2023-05-18,2024-03-16 14:37:10,Basic,132.34,862.89,1.2,5,False
+CUST_0103,Mark Garcia,42.0,Male,thomasvincent@example.net,Paris,2023-06-30,2024-07-04 23:09:13,Premium,168.52,1205.76,2.5,3,True
+CUST_0104,Peter Salinas,24.0,Male,kayla70@example.net,Tokyo,2023-04-26,2024-05-11 11:16:26,Basic,119.7,1137.81,3.0,2,False
+CUST_0105,Sarah Garcia,26.0,Female,andrewsjulie@example.net,Sydney,2022-08-23,2024-04-26 02:10:23,Premium,132.82,3983.44,3.2,8,False
+CUST_0106,Adam Nolan,41.0,Male,hillpatrick@example.net,Paris,2022-06-26,,Basic,97.09,1015.85,3.9,7,False
+CUST_0107,Scott Dean,18.0,Female,amy58@example.com,Sydney,2022-01-31,,Premium,110.45,426.63,2.4,10,False
+CUST_0108,Michael Collins,61.0,Female,,Paris,2024-08-16,,Basic,16.53,4992.95,3.5,7,False
+CUST_0109,Daisy Wu,25.0,Male,ericrios@example.org,Tokyo,2022-11-22,2024-03-13 06:43:16,Premium,131.4,221.6,3.3,5,False
+CUST_0110,Christina Murray,,Female,tanderson@example.org,New York,2024-04-26,2024-08-10 18:30:28,Enterprise,25.47,4192.7,3.2,9,True
+CUST_0111,James Donovan,28.0,Male,,Tokyo,2023-12-10,2024-06-05 08:56:27,Basic,92.65,1890.3,3.6,5,False
+CUST_0112,Zachary Edwards,68.0,Female,uroberts@example.net,New York,2024-06-06,2024-09-28 12:24:04,Basic,65.6,4223.92,2.0,2,True
+CUST_0113,Elizabeth Knox,34.0,Other,qcollins@example.com,New York,2023-08-10,2024-06-18 06:07:08,Basic,113.63,2817.64,1.3,3,False
+CUST_0114,Charles Porter,25.0,Female,ngriffin@example.com,Sydney,2022-03-23,2024-10-25 09:50:12,Basic,35.35,4517.99,1.5,4,False
+CUST_0115,Christina Smith,52.0,Male,belltimothy@example.org,Tokyo,2022-12-16,2024-04-30 09:30:00,Basic,141.41,4638.35,1.9,5,False
+CUST_0116,Kenneth Lopez,,Other,clarkemichael@example.net,Paris,2022-12-04,2024-08-03 21:29:04,Basic,161.05,144.58,3.0,3,True
+CUST_0117,Brandon Moore,50.0,Female,,Tokyo,2022-02-28,2024-09-19 20:45:37,Basic,41.04,469.52,4.4,7,False
+CUST_0118,Danielle Castillo,22.0,Male,brandonmoreno@example.com,Sydney,2023-07-18,,Basic,29.82,1326.76,3.8,5,True
+CUST_0119,Eileen Williams,,Male,jamie53@example.net,New York,2024-04-12,2024-04-13 17:09:05,Basic,37.65,3379.65,4.2,5,True
+CUST_0120,Joseph Clay,56.0,Female,padilladaniel@example.net,Sydney,2024-03-04,2024-02-22 12:06:24,Premium,176.65,4452.53,2.4,6,False
+CUST_0121,Eric Cordova,58.0,Female,brooksmichael@example.com,London,2022-11-14,2024-08-27 16:26:36,Basic,110.36,2353.72,2.6,7,False
+CUST_0122,Emily Cook,45.0,Female,kleinthomas@example.org,London,2024-06-23,,Basic,98.78,3074.17,2.6,10,True
+CUST_0123,Gary Garcia,24.0,Female,oneillpaul@example.net,Paris,2024-03-27,2024-06-17 09:15:19,Basic,30.28,1023.65,1.8,10,True
+CUST_0124,Katelyn Allen,26.0,Female,martincynthia@example.org,Sydney,2022-08-18,2024-03-28 14:22:27,Basic,133.42,4044.34,1.2,8,False
+CUST_0125,Christopher Moreno,25.0,Male,wagnermichelle@example.net,Paris,2022-11-04,,Basic,174.92,4839.91,3.4,9,False
+CUST_0126,Anthony Galvan,,Male,james58@example.com,Paris,2024-02-22,2024-06-13 20:51:41,Basic,167.36,1416.13,5.0,4,True
+CUST_0127,Teresa Sosa,51.0,Male,,London,2024-02-20,2024-06-05 04:32:40,Basic,128.95,2524.65,1.7,5,False
+CUST_0128,Michelle Wyatt,,Female,johnsims@example.com,Paris,2023-09-29,,Premium,24.3,521.97,1.2,5,False
+CUST_0129,Andrea Cobb,65.0,Male,amber34@example.org,London,2024-08-27,,Basic,31.36,2839.77,4.1,8,False
+CUST_0130,Jennifer Strickland,40.0,Female,lindseyrobertson@example.org,New York,2024-12-26,2024-05-01 08:32:14,Premium,19.37,2563.64,2.0,9,False
+CUST_0131,Tracy Warren,41.0,Female,mcdonaldabigail@example.org,Sydney,2022-11-03,2024-08-25 12:27:05,Premium,58.92,807.74,4.3,7,True
+CUST_0132,John Lee,,Female,hclayton@example.org,Paris,2024-09-09,2024-05-02 17:19:48,Premium,35.78,2266.12,3.8,5,False
+CUST_0133,Brandon Rogers,52.0,Male,parrishlarry@example.com,London,2022-08-09,2024-02-04 10:10:01,Enterprise,59.41,1737.11,4.8,3,False
+CUST_0134,James White,61.0,Female,claytonpaula@example.com,Tokyo,2023-06-25,,Basic,83.16,2656.97,2.6,1,False
+CUST_0135,Sharon Moore,57.0,Male,ihobbs@example.net,Paris,2022-07-30,2024-04-02 05:53:50,Basic,189.17,2969.71,3.6,9,False
+CUST_0136,Michael Rodriguez,39.0,Female,dennisrhonda@example.org,New York,2023-05-05,2024-05-02 23:03:59,Premium,125.97,141.63,2.9,5,False
+CUST_0137,Ruth Smith,44.0,Male,gstephens@example.org,New York,2023-06-05,,Basic,168.65,3828.93,3.5,9,True
+CUST_0138,Mary Thomas,52.0,Male,joseph43@example.net,Tokyo,2024-03-25,2024-02-20 23:12:29,Basic,144.97,3593.77,2.8,10,True
+CUST_0139,Christopher Graham,18.0,Female,charleswise@example.com,London,2024-06-29,2024-05-19 06:37:57,Premium,31.38,1894.8,1.8,4,True
+CUST_0140,Ronald Kirby,,Male,cannontodd@example.net,Paris,2023-11-28,2024-03-14 17:05:12,Premium,149.82,359.39,3.0,5,False
+CUST_0141,Joseph Fields,54.0,Male,peter10@example.com,London,2024-04-16,,Enterprise,62.27,3799.17,3.1,4,False
+CUST_0142,Rebecca Chapman,64.0,Female,anthonyhull@example.org,New York,2023-04-08,2024-08-20 07:02:02,Enterprise,131.43,4780.36,4.2,2,False
+CUST_0143,Angela Montgomery,31.0,Female,qreynolds@example.net,London,2024-02-02,2024-07-07 22:04:04,Premium,74.78,1276.74,3.9,1,True
+CUST_0144,Timothy Sampson,20.0,Female,spatel@example.org,New York,2023-12-24,2024-05-21 15:25:33,Basic,199.56,1685.27,3.7,8,False
+CUST_0145,Mary Harris,18.0,Female,,London,2023-05-13,,Premium,60.07,1000.68,1.5,4,False
+CUST_0146,Dawn Krause,22.0,Female,vnichols@example.org,Tokyo,2024-04-10,2024-08-18 12:19:39,Basic,63.03,2926.99,3.9,5,False
+CUST_0147,Mr. Aaron Brooks DDS,43.0,Male,virginia99@example.com,Sydney,2024-05-18,2024-02-22 21:33:12,Basic,186.83,858.72,3.0,6,False
+CUST_0148,Jerry Thomas,31.0,Male,amygoodwin@example.net,Tokyo,2023-05-15,2024-07-31 21:31:54,Premium,14.68,1845.35,4.6,8,True
+CUST_0149,Jennifer Rocha,56.0,Male,thill@example.com,Tokyo,2024-07-07,2024-02-08 07:19:26,Basic,142.37,3515.36,4.7,8,False
+CUST_0150,Robert Cruz,44.0,Other,williamsricky@example.net,Sydney,2024-09-18,2024-08-18 12:55:08,Basic,147.81,2844.57,1.2,7,False
+CUST_0151,Michelle Gregory,,Female,ebryant@example.org,Sydney,2023-06-07,2024-10-15 22:47:45,Basic,168.91,1993.67,4.3,4,True
+CUST_0152,Tamara Holloway,32.0,Male,joshuamorse@example.net,Paris,2024-02-15,2024-04-22 17:37:28,Premium,195.14,2159.22,1.2,6,False
+CUST_0153,Miguel Wright,32.0,Female,,Paris,2024-11-07,2024-01-29 11:26:41,Basic,195.36,2854.34,2.5,4,True
+CUST_0154,Nicholas Edwards,43.0,Other,melissapugh@example.org,Tokyo,2022-10-10,2024-02-19 22:50:45,Premium,22.4,128.74,3.2,7,False
+CUST_0155,Jennifer Sanchez,59.0,Male,rsmith@example.com,Tokyo,2024-03-29,2024-10-31 11:41:24,Basic,166.15,484.7,1.6,1,False
+CUST_0156,Zachary Torres,30.0,Female,seantran@example.net,New York,2024-01-30,2024-10-21 16:38:59,Premium,132.8,4418.16,4.0,5,True
+CUST_0157,Michael Thomas,68.0,Female,jerry77@example.net,New York,2023-07-10,2024-07-31 18:08:40,Premium,133.0,481.61,1.0,10,False
+CUST_0158,David Mcconnell,,Female,joelhopkins@example.net,Paris,2024-08-27,2024-10-15 23:41:20,Basic,34.39,3563.34,1.7,10,False
+CUST_0159,Monica Mejia,56.0,Male,,Paris,2024-01-21,,Basic,133.54,4608.19,3.3,4,True
+CUST_0160,Robin Allen,66.0,Female,,New York,2022-06-18,2024-03-18 03:38:08,Basic,196.67,1426.35,3.9,7,False
+CUST_0161,Stacey Bowman,69.0,Other,smithstephen@example.net,New York,2022-04-30,2024-09-17 16:24:16,Enterprise,183.25,1915.41,4.7,9,True
+CUST_0162,Albert Reed,49.0,Female,,London,2024-09-26,2024-03-20 20:06:26,Premium,93.43,2887.71,3.8,5,False
+CUST_0163,Dawn Ingram,,Female,,London,2022-02-17,2024-07-28 12:09:14,Enterprise,17.59,4420.37,3.7,4,True
+CUST_0164,Justin George,47.0,Other,,New York,2023-09-17,2024-02-14 10:33:05,Basic,78.84,,2.6,9,True
+CUST_0165,Susan Phelps,54.0,Female,eclark@example.net,London,2023-02-13,2024-10-24 22:59:53,Premium,167.01,3723.86,1.0,5,True
+CUST_0166,Robert Gutierrez,40.0,Male,gking@example.net,Sydney,2023-09-13,2024-06-21 11:52:58,Premium,143.28,524.44,1.5,9,True
+CUST_0167,Michael Mason,56.0,Female,eugene07@example.org,Paris,2024-11-06,2024-01-31 10:49:10,Premium,97.28,3378.86,3.1,8,False
+CUST_0168,Jacob Martinez,62.0,Female,rileysandra@example.org,Paris,2024-04-14,2024-09-20 01:44:47,Enterprise,20.47,2110.49,3.7,4,True
+CUST_0169,John Ramos,32.0,Male,laura43@example.net,New York,2023-07-16,2025-01-08 04:24:30,Basic,91.11,2406.43,2.7,7,False
+CUST_0170,Mark Woods,60.0,Female,kparker@example.net,Tokyo,2022-09-18,2024-09-04 23:01:08,Basic,99.11,340.83,3.9,5,True
+CUST_0171,Teresa Bailey,,Other,acooper@example.net,New York,2023-03-05,,Premium,186.43,1036.2,3.1,10,True
+CUST_0172,Shelby Deleon,53.0,Other,richard12@example.org,London,2023-05-22,,Premium,131.81,3973.52,1.3,4,False
+CUST_0173,Adam Fox,30.0,Female,ashleysmith@example.net,Tokyo,2023-03-06,2024-09-04 23:29:47,Basic,69.21,2324.4,1.8,5,False
+CUST_0174,Tommy Price,49.0,Male,,London,2023-03-08,,Basic,109.81,1578.14,4.4,5,False
+CUST_0175,Sandra Fuller,24.0,Other,moorejeffrey@example.org,Sydney,2024-05-14,2024-09-25 01:39:38,Basic,22.55,1981.69,3.9,9,False
+CUST_0176,Jason Johnson,68.0,Female,michael56@example.org,London,2023-06-02,2024-02-12 20:06:33,Basic,194.79,4286.56,4.6,9,True
+CUST_0177,Laura Phillips,39.0,Male,russell01@example.org,Sydney,2022-09-03,2024-04-17 03:22:59,Basic,78.41,3770.1,1.5,6,False
+CUST_0178,Jennifer Logan,45.0,Other,,Sydney,2024-11-23,2024-10-24 12:04:22,Premium,100.79,1434.35,5.0,4,True
+CUST_0179,Elaine Brown,19.0,Female,,London,2024-10-13,2024-08-29 16:10:53,Premium,77.5,675.76,1.8,2,True
+CUST_0180,William Burnett,59.0,Female,fordrachel@example.org,London,2025-01-04,2025-01-27 00:13:29,Basic,139.68,1334.79,1.0,3,False
+CUST_0181,Sheryl Nelson,62.0,Female,scott82@example.net,Sydney,2024-01-26,2025-01-06 05:28:10,Basic,135.82,4611.71,5.0,2,False
+CUST_0182,Christian Adkins,23.0,Male,tcaldwell@example.net,Tokyo,2022-11-13,2024-10-02 14:38:34,Basic,145.91,,2.1,5,False
+CUST_0183,Wendy Walters,45.0,Male,apriljordan@example.org,Sydney,2024-11-23,,Basic,60.95,2714.05,3.7,6,True
+CUST_0184,David Francis,45.0,Male,andrea84@example.net,Paris,2024-10-11,2025-01-01 00:45:19,Premium,69.98,3022.33,1.7,5,False
+CUST_0185,April Fuller,61.0,Female,vrogers@example.com,Sydney,2023-01-12,,Enterprise,33.8,1893.54,3.3,2,False
+CUST_0186,Sarah Kennedy,61.0,Male,fpadilla@example.net,Tokyo,2024-11-24,2024-10-26 01:23:19,Basic,134.55,4054.82,4.6,5,False
+CUST_0187,Vincent Maxwell,,Male,edwardwarren@example.net,Paris,2023-06-15,2024-05-28 19:32:51,Premium,17.56,,2.3,9,True
+CUST_0188,Mrs. Jill Nichols DVM,47.0,Male,rachelchavez@example.net,New York,2024-11-06,,Premium,123.56,,3.7,4,True
+CUST_0189,Wesley Edwards,28.0,Female,hughesdaniel@example.org,New York,2022-06-24,2024-12-13 07:54:24,Premium,175.24,732.42,1.8,10,False
+CUST_0190,Janet Moore,45.0,Other,jenniferhowell@example.net,Tokyo,2023-09-20,2024-04-27 12:46:18,Basic,179.26,2730.61,3.5,2,False
+CUST_0191,Stephen Oconnell,42.0,Male,,Sydney,2024-12-23,2024-05-28 20:08:03,Enterprise,95.32,4689.19,2.3,3,False
+CUST_0192,Allison Stephens,56.0,Male,cassieclark@example.com,London,2022-12-29,2024-04-05 23:40:43,Basic,97.27,1610.93,1.8,3,False
+CUST_0193,Ashley Foster,50.0,Female,gomezheather@example.org,Tokyo,2022-08-12,2024-06-11 07:01:28,Basic,24.62,4360.75,2.3,9,True
+CUST_0194,Anthony Murphy,18.0,Female,franklineric@example.com,Paris,2022-03-02,,Basic,137.45,3844.07,1.7,4,False
+CUST_0195,Joshua Clark,,Male,jillwalker@example.com,Paris,2023-06-22,2024-05-07 08:29:39,Basic,166.04,1314.28,4.6,1,False
+CUST_0196,Katherine Davis,69.0,Female,nicholas61@example.org,New York,2024-05-02,2024-07-23 07:22:17,Basic,56.48,278.07,2.6,1,True
+CUST_0197,Richard Day,30.0,Male,pattersonshannon@example.com,Paris,2024-07-09,2024-04-17 02:25:16,Basic,90.05,599.05,2.0,7,True
+CUST_0198,Angel Holden,58.0,Male,zknight@example.com,Tokyo,2023-09-17,,Basic,169.38,3669.62,2.8,7,False
+CUST_0199,Lawrence Larson,20.0,Female,johnarmstrong@example.com,Paris,2022-09-19,2024-10-03 21:49:52,Premium,176.65,1078.38,2.3,2,False
+CUST_0200,Sarah Randall,56.0,Male,kjenkins@example.org,Tokyo,2022-09-03,2025-01-20 21:56:34,Premium,56.2,1919.23,4.0,9,False
+CUST_0201,Michael Jones,23.0,Other,jonathan53@example.net,London,2023-11-22,2024-09-20 10:51:46,Basic,114.61,2558.33,4.9,9,True
+CUST_0202,Jamie Arias,25.0,Male,catherinecampbell@example.com,New York,2022-05-26,,Premium,46.57,3654.79,2.8,5,False
+CUST_0203,Elizabeth Contreras,44.0,Female,hphillips@example.com,Paris,2023-08-27,2024-06-05 03:21:53,Premium,29.36,654.83,4.4,3,True
+CUST_0204,Lauren Perez,26.0,Female,lopezjohnny@example.net,Tokyo,2022-08-02,2024-07-19 08:06:23,Premium,183.11,2091.2,3.3,3,False
+CUST_0205,Angel Lopez,54.0,Male,hgriffin@example.com,Sydney,2024-10-29,2024-09-10 05:48:02,Basic,165.9,2476.86,1.6,3,False
+CUST_0206,Richard Martin,50.0,Female,megan69@example.org,New York,2024-04-23,2024-12-28 15:18:53,Premium,154.41,2750.05,3.8,6,True
+CUST_0207,Alexander Lopez,68.0,Male,dawndeleon@example.org,London,2023-07-30,2024-06-05 10:34:53,Enterprise,19.27,4109.97,3.1,4,True
+CUST_0208,Chad Dunlap,59.0,Other,lchan@example.net,Tokyo,2023-03-26,2024-09-18 17:47:59,Premium,170.31,941.22,3.6,8,False
+CUST_0209,Jenny Golden,,Male,mitchellwilson@example.com,London,2022-09-10,,Basic,93.23,4058.37,4.6,5,False
+CUST_0210,David Taylor,41.0,Male,lwilliams@example.net,London,2022-06-30,2024-05-18 07:35:24,Basic,75.06,3495.1,2.8,1,True
+CUST_0211,Lori Simmons,32.0,Male,karinataylor@example.com,Paris,2022-03-05,2024-11-10 11:41:43,Premium,113.83,2823.77,4.6,9,False
+CUST_0212,Debra Williams,49.0,Other,kennethnovak@example.com,Paris,2023-04-28,2024-11-13 09:51:19,Basic,27.36,3527.69,4.0,1,False
+CUST_0213,Mrs. Regina Lindsey DDS,49.0,Female,ihartman@example.net,Tokyo,2024-04-09,2024-10-23 16:36:57,Basic,153.76,2118.89,3.0,6,True
+CUST_0214,Robert Santana,41.0,Female,brenda68@example.com,Sydney,2024-09-17,,Basic,120.66,778.15,3.4,1,False
+CUST_0215,Robert Walker,,Male,obarnett@example.org,Tokyo,2024-11-21,2024-09-27 20:51:32,Premium,45.45,3362.25,2.3,3,False
+CUST_0216,Linda Wyatt,69.0,Female,andrewbrooks@example.com,Sydney,2024-03-29,2024-10-30 06:53:51,Premium,45.76,2670.89,4.9,10,False
+CUST_0217,Gregory Olsen,66.0,Male,geoffrey28@example.org,London,2023-04-02,,Basic,45.01,3232.94,3.7,5,False
+CUST_0218,Taylor Bright,66.0,Female,andrea38@example.com,New York,2023-09-24,2024-06-24 18:13:41,Enterprise,20.83,1756.19,1.2,10,True
+CUST_0219,David Lynch,69.0,Male,jonesmatthew@example.net,Tokyo,2023-09-02,2024-07-11 07:15:51,Basic,121.68,4543.65,2.3,7,False
+CUST_0220,Molly Valdez,29.0,Male,edwardsryan@example.com,Tokyo,2022-06-15,,Premium,169.67,2978.11,3.5,10,False
+CUST_0221,Heather Bennett,56.0,Male,harryevans@example.com,Sydney,2024-11-03,2024-06-20 02:03:08,Premium,13.32,518.47,1.2,8,False
+CUST_0222,Melissa Rice,19.0,Female,luke47@example.net,London,2022-06-21,2024-09-06 09:19:31,Premium,19.31,2304.04,1.1,9,False
+CUST_0223,Victoria Newman,20.0,Female,louis84@example.net,London,2022-08-20,2024-03-24 20:20:04,Enterprise,118.83,3806.14,2.8,6,True
+CUST_0224,Stephen Davidson,66.0,Male,gregorydickerson@example.net,Sydney,2022-03-10,2024-02-21 07:16:48,Basic,165.7,3991.26,2.3,9,False
+CUST_0225,Emily Clark,54.0,Female,sparkscarl@example.com,London,2023-03-21,2024-03-21 13:51:53,Premium,72.08,2523.53,2.8,8,False
+CUST_0226,Victoria Meyers,66.0,Female,jasmine06@example.com,Paris,2023-07-04,2024-08-13 15:07:10,Basic,76.43,4484.26,2.1,9,True
+CUST_0227,Mary Bruce,34.0,Female,jamie00@example.org,New York,2023-03-30,2024-10-09 03:24:56,Premium,123.31,1411.58,1.7,10,False
+CUST_0228,Heather Casey,66.0,Male,thomas22@example.org,Tokyo,2023-01-16,,Premium,62.1,2111.93,3.8,4,False
+CUST_0229,Jennifer Chen,19.0,Male,christophernelson@example.com,New York,2022-07-02,2024-08-11 18:08:35,Premium,15.06,4503.12,3.1,9,False
+CUST_0230,Mr. Joshua Simmons,19.0,Female,melanie57@example.com,Tokyo,2024-08-30,2024-07-26 05:04:45,Basic,149.69,4491.66,1.8,7,True
+CUST_0231,Robin Ortiz,45.0,Male,,Paris,2023-10-13,2024-07-19 01:52:14,Premium,128.87,3459.99,2.3,5,True
+CUST_0232,Anthony Williams,,Male,sara92@example.org,London,2022-07-20,2024-12-31 15:29:15,Basic,120.34,4309.0,3.4,5,False
+CUST_0233,Edward Bishop,,Female,drakeelizabeth@example.net,Sydney,2024-10-05,2024-08-03 07:21:25,Basic,150.92,534.99,1.3,1,False
+CUST_0234,Elizabeth Lee,49.0,Other,jenniferstafford@example.com,Paris,2024-08-26,2024-05-20 18:42:32,Premium,138.29,4338.48,1.6,2,False
+CUST_0235,Marcus Becker,,Male,kara53@example.net,New York,2023-08-15,2024-05-16 03:36:13,Basic,49.12,1671.04,1.3,10,False
+CUST_0236,Erik Sanchez,18.0,Male,gbenjamin@example.com,Sydney,2023-06-19,,Premium,76.97,973.82,4.2,3,True
+CUST_0237,Tommy Cooper,36.0,Female,xphelps@example.net,London,2023-01-10,,Basic,33.96,1272.91,4.0,8,False
+CUST_0238,Bonnie Wright,19.0,Male,turnerphilip@example.net,Paris,2022-12-20,2024-11-16 13:51:03,Basic,34.67,2148.05,4.0,6,False
+CUST_0239,Megan Newton DDS,61.0,Male,huntbeverly@example.org,Sydney,2023-12-23,2024-06-02 10:59:11,Premium,138.48,1330.84,3.9,10,False
+CUST_0240,Gregory Garcia,43.0,Male,bryantemily@example.org,Paris,2022-05-12,2024-05-29 02:14:24,Basic,173.13,1670.78,3.7,5,True
+CUST_0241,Michael Ford,49.0,Female,qadams@example.org,Paris,2023-03-22,2024-09-27 21:55:03,Basic,192.92,761.39,2.9,1,True
+CUST_0242,Kristen Griffith,23.0,Female,rivasstephen@example.com,London,2024-07-25,2024-10-02 10:14:10,Premium,129.39,1551.27,3.6,9,False
+CUST_0243,Amanda Burns,49.0,Male,michael49@example.com,Tokyo,2022-05-21,2024-10-02 15:54:01,Basic,44.98,2904.19,1.2,3,True
+CUST_0244,Mr. Justin Williams,21.0,Male,sean17@example.org,Sydney,2024-03-20,2024-04-20 04:50:27,Premium,30.07,2265.08,3.5,3,True
+CUST_0245,Michele Ortiz,28.0,Male,walllawrence@example.org,London,2023-07-02,,Basic,164.44,1798.92,4.1,2,True
+CUST_0246,Diana Alvarez,,Female,xglass@example.org,Paris,2023-08-15,,Premium,119.96,3757.62,3.0,4,False
+CUST_0247,Ronald Jones,55.0,Male,kevinhuffman@example.com,London,2023-07-25,2025-01-07 23:15:06,Premium,127.47,4478.2,2.4,2,False
+CUST_0248,Richard Munoz,41.0,Male,ajordan@example.org,Tokyo,2024-11-09,2025-01-24 17:36:44,Premium,158.48,,2.1,9,False
+CUST_0249,Jeffrey Lee,22.0,Female,kcooke@example.org,Sydney,2022-10-21,2025-01-28 02:00:19,Basic,143.62,1726.8,3.6,10,True
+CUST_0250,Shannon Grant,69.0,Male,oscarjohnson@example.com,Tokyo,2022-06-29,,Premium,168.55,3747.77,3.8,7,False
+CUST_0251,Alexandria Reyes,51.0,Female,,New York,2024-07-10,,Premium,20.68,844.7,4.5,8,True
+CUST_0252,Todd Fox,23.0,Male,richardhunt@example.org,Sydney,2023-07-07,2024-11-27 13:05:13,Premium,152.03,738.56,2.4,3,False
+CUST_0253,Kristen Shepard,,Male,joelee@example.net,Tokyo,2023-05-23,2024-09-24 04:18:11,Basic,171.66,1793.57,4.1,6,False
+CUST_0254,Linda Moore,28.0,Male,ballkevin@example.org,Paris,2023-09-16,,Premium,64.37,4057.74,3.2,10,False
+CUST_0255,April Spears,65.0,Female,,Sydney,2024-08-06,2024-05-29 04:42:43,Premium,131.68,1307.11,4.5,6,True
+CUST_0256,Dawn Mccullough,33.0,Female,courtneythompson@example.org,Sydney,2023-05-25,,Basic,69.69,,3.1,1,True
+CUST_0257,Paul Shannon,50.0,Female,lopezmatthew@example.net,London,2024-12-15,2024-04-05 23:16:34,Basic,192.01,745.38,3.1,6,False
+CUST_0258,Zachary Pope,26.0,Male,amber45@example.org,Paris,2024-05-08,2024-12-30 05:08:17,Premium,16.35,4307.85,3.3,3,False
+CUST_0259,Leslie Murray,23.0,Female,anna40@example.com,New York,2023-05-10,,Basic,120.16,3205.54,4.0,3,True
+CUST_0260,Brittney Davis,33.0,Male,martinezstephen@example.net,Tokyo,2023-10-26,2024-09-09 06:16:48,Enterprise,41.64,1340.69,4.9,3,False
+CUST_0261,Madeline Flores,,Male,bwalker@example.com,London,2022-12-14,2024-10-21 05:44:38,Premium,145.32,2820.95,1.3,10,False
+CUST_0262,Larry Campbell,20.0,Female,epalmer@example.net,Tokyo,2024-10-13,2024-07-31 05:55:53,Premium,43.42,2685.14,1.2,10,False
+CUST_0263,Chad Howard,37.0,Male,mannyolanda@example.net,New York,2023-11-14,2024-09-27 01:20:01,Basic,54.72,3311.64,4.8,8,False
+CUST_0264,Katherine Bailey,53.0,Male,qkelly@example.com,New York,2024-12-25,,Basic,103.93,1242.62,3.1,5,True
+CUST_0265,Paul Cohen,36.0,Male,sarah80@example.net,Sydney,2024-10-16,2024-06-07 07:24:37,Enterprise,183.82,4335.57,3.5,4,True
+CUST_0266,Michael Rogers,43.0,Male,,New York,2024-06-27,2024-06-17 22:06:35,Basic,50.23,1615.91,2.9,9,True
+CUST_0267,Courtney Fuller,20.0,Male,rbarrett@example.com,Tokyo,2024-09-02,2024-12-31 20:17:25,Premium,37.41,3501.25,1.4,9,False
+CUST_0268,Theresa Walters,36.0,Female,,Paris,2024-11-23,2024-08-12 22:31:56,Basic,154.21,179.01,4.1,1,True
+CUST_0269,Eric Cannon,37.0,Male,elliskayla@example.net,Paris,2022-09-29,2024-12-17 16:14:02,Basic,105.12,1926.02,4.0,2,False
+CUST_0270,Miss Jennifer Medina,49.0,Female,danielmiller@example.net,Sydney,2023-08-29,2024-02-12 15:23:08,Basic,183.24,,2.2,8,True
+CUST_0271,Joanna Garcia,24.0,Female,doyledeborah@example.com,Tokyo,2022-09-20,,Basic,37.86,2763.07,2.2,5,False
+CUST_0272,Robert Mendoza,69.0,Male,antonio14@example.net,Tokyo,2023-08-26,,Enterprise,132.73,456.41,4.4,7,False
+CUST_0273,Samantha Gomez,58.0,Male,barbara06@example.com,New York,2023-01-06,2024-08-14 14:28:36,Basic,54.25,3971.64,1.3,1,True
+CUST_0274,Michael Webster,50.0,Male,david48@example.net,Tokyo,2024-04-17,2024-10-23 07:01:15,Basic,39.78,1167.13,4.5,10,True
+CUST_0275,Stephanie Heath,,Female,stacey85@example.net,London,2024-01-17,2025-01-01 04:40:17,Basic,139.85,3417.49,2.0,5,False
+CUST_0276,Timothy Hall,56.0,Male,ksanchez@example.com,New York,2024-07-14,2024-03-04 23:39:58,Basic,122.8,4035.74,3.4,3,True
+CUST_0277,Tony Jones,,Female,elizabeth07@example.org,London,2023-02-06,2024-12-15 06:20:07,Basic,153.42,2853.2,4.7,10,True
+CUST_0278,Devin Erickson,57.0,Male,handrews@example.com,Sydney,2022-07-15,,Premium,68.8,3730.33,3.7,2,True
+CUST_0279,Charles Freeman,18.0,Female,pgordon@example.org,Paris,2023-09-20,2024-05-14 17:01:20,Basic,95.11,3343.12,2.7,2,False
+CUST_0280,Lauren Lynch,28.0,Male,jessicamay@example.com,Sydney,2023-11-25,2024-02-17 20:09:49,Basic,87.04,1842.1,3.8,9,False
+CUST_0281,Brian Fields,45.0,Male,anthonyedwards@example.com,Paris,2024-02-01,2024-03-04 08:37:26,Basic,196.98,4063.41,2.4,4,False
+CUST_0282,Stephanie Cook,,Other,nmiller@example.org,Sydney,2022-08-17,2024-06-15 15:25:49,Enterprise,65.53,,2.1,4,True
+CUST_0283,Robert Wong,,Female,christinanelson@example.com,Tokyo,2024-06-10,2024-03-11 11:09:35,Basic,66.02,2898.94,5.0,7,False
+CUST_0284,Cynthia Hayes,,Male,grandall@example.org,London,2023-12-02,2024-10-16 01:53:29,Basic,77.36,3752.45,4.0,10,False
+CUST_0285,Sara Gibson,48.0,Female,cclark@example.net,Paris,2024-09-18,2024-02-08 05:23:05,Premium,117.27,1956.88,3.6,10,False
+CUST_0286,Paul Mcintosh,47.0,Female,,New York,2023-02-08,2024-09-22 06:41:14,Basic,57.94,1583.56,2.4,2,True
+CUST_0287,Joseph Smith,59.0,Female,dwilson@example.net,London,2022-04-30,2024-07-18 19:10:18,Basic,183.91,2350.8,1.2,3,False
+CUST_0288,Chris Martinez,52.0,Female,gabriellestewart@example.net,New York,2022-12-03,2024-06-18 15:05:09,Basic,60.48,4108.02,1.1,3,False
+CUST_0289,Martha Owens,24.0,Male,jasmine50@example.com,London,2023-04-16,2024-02-05 06:02:03,Premium,180.2,4656.62,3.2,6,False
+CUST_0290,Paige Strickland,33.0,Male,,London,2022-02-19,2024-12-02 23:29:51,Basic,29.66,2770.91,4.0,3,True
+CUST_0291,Sierra Young,43.0,Male,nancy61@example.com,Sydney,2023-10-17,2024-05-21 08:07:18,Premium,134.75,3341.18,3.1,5,True
+CUST_0292,Laura Rodriguez,,Female,collinsmason@example.org,Paris,2024-09-03,2024-10-03 14:11:16,Premium,182.33,4526.04,4.4,4,True
+CUST_0293,Heidi Henry,69.0,Female,mariesmith@example.net,Paris,2024-09-19,,Basic,42.06,582.88,1.1,3,True
+CUST_0294,Frank Cunningham,66.0,Male,,London,2024-02-14,2024-03-14 16:02:27,Basic,193.98,1237.19,2.5,8,False
+CUST_0295,Tom Bell,19.0,Male,jamesvictoria@example.org,Tokyo,2023-12-07,2024-09-02 09:18:55,Basic,96.05,3573.61,1.9,10,False
+CUST_0296,Patrick Miller,18.0,Female,lisa78@example.com,Tokyo,2023-08-05,2025-01-21 15:23:38,Premium,189.69,4136.35,2.8,3,False
+CUST_0297,Alyssa Glover,65.0,Other,cobbkyle@example.org,New York,2024-12-20,2024-04-03 00:06:26,Basic,138.6,,1.3,6,True
+CUST_0298,Christopher Matthews,29.0,Female,benjamin64@example.net,New York,2022-10-23,2024-04-07 14:53:48,Basic,67.3,2134.03,4.8,7,True
+CUST_0299,Joseph Camacho,,Male,hernandezlisa@example.com,Sydney,2023-03-24,2024-08-08 19:46:19,Basic,45.78,537.77,1.9,7,True
+CUST_0300,Andrew Rose,54.0,Male,tracypotter@example.org,London,2022-09-17,,Enterprise,67.71,2245.13,4.7,2,True
+CUST_0301,Michelle Rios,49.0,Male,pfrye@example.com,New York,2022-05-30,2025-01-13 22:24:45,Basic,27.67,1230.6,2.7,3,False
+CUST_0302,Michael Stewart,26.0,Other,jreyes@example.org,New York,2022-07-06,2024-06-08 15:19:33,Enterprise,37.33,1526.86,4.9,10,True
+CUST_0303,Ryan Galloway,58.0,Male,steven43@example.org,London,2024-09-28,2024-12-12 20:22:55,Basic,29.89,3884.11,3.2,10,True
+CUST_0304,Angela Hunt,52.0,Female,,Sydney,2024-05-21,2024-12-04 06:38:24,Basic,90.36,470.08,4.7,4,False
+CUST_0305,Thomas Monroe,36.0,Male,,New York,2022-12-18,2025-01-16 17:57:49,Basic,161.16,4155.15,1.0,7,False
+CUST_0306,Lisa Hunt,65.0,Female,michaelpeterson@example.com,Sydney,2024-12-04,,Basic,36.86,2195.58,4.0,2,False
+CUST_0307,Donald Solis,33.0,Female,schneiderdennis@example.com,Paris,2024-06-08,2024-08-22 09:36:59,Basic,34.76,3020.71,4.6,3,False
+CUST_0308,Matthew Williams,20.0,Female,joshuablack@example.com,Sydney,2022-09-28,2024-02-09 10:08:38,Basic,132.25,539.3,1.6,7,True
+CUST_0309,Kiara Pace,,Male,jeffthomas@example.net,Tokyo,2024-08-28,,Enterprise,47.46,1753.06,1.4,7,False
+CUST_0310,Christina Lopez,41.0,Male,michael92@example.org,Tokyo,2023-08-29,,Premium,28.55,539.53,2.7,10,False
+CUST_0311,Jessica Chan,50.0,Male,marysmith@example.net,Sydney,2022-05-17,,Premium,41.7,4811.56,4.7,3,False
+CUST_0312,Jeremiah Davis,41.0,Other,joseph90@example.com,Tokyo,2023-05-04,2024-11-12 19:44:13,Basic,185.51,4055.58,3.2,1,False
+CUST_0313,Jerry Matthews,69.0,Female,williamspamela@example.net,Paris,2022-12-11,,Basic,166.08,2352.2,3.1,3,True
+CUST_0314,Jessica Schneider,28.0,Female,laura04@example.net,London,2024-11-23,2024-05-16 11:34:04,Basic,77.27,1195.65,1.6,5,False
+CUST_0315,Savannah Harrison,66.0,Female,,Tokyo,2024-04-12,2024-03-02 16:06:08,Premium,134.61,4673.93,1.0,7,True
+CUST_0316,Stephen Goodwin,25.0,Female,rachel11@example.com,Tokyo,2024-11-29,2024-11-03 23:40:13,Enterprise,112.08,1788.52,4.2,4,False
+CUST_0317,Courtney Boone DVM,53.0,Male,robersoncollin@example.com,Sydney,2023-01-15,2024-10-21 15:08:10,Basic,138.65,888.82,1.4,1,False
+CUST_0318,Jennifer Garcia,55.0,Other,thompsoncassandra@example.com,Paris,2024-09-03,2024-10-10 09:26:33,Basic,139.71,2859.51,3.5,6,False
+CUST_0319,Paul Edwards,,Male,fostertommy@example.org,London,2024-10-21,2024-02-05 14:21:09,Basic,129.46,4724.49,4.7,2,False
+CUST_0320,Kevin Collins,37.0,Male,longgarrett@example.com,Sydney,2022-03-08,2024-02-05 10:53:30,Basic,60.56,118.77,1.8,3,False
+CUST_0321,Anthony Davis,52.0,Female,timothy46@example.net,Sydney,2023-04-21,2024-05-25 18:36:14,Basic,17.41,1266.81,3.7,4,True
+CUST_0322,David Cummings,65.0,Male,mortonjessica@example.org,Paris,2022-12-23,2024-04-03 06:16:10,Premium,96.56,4698.39,1.3,6,False
+CUST_0323,Robert Meza,42.0,Male,lopezerica@example.com,London,2023-08-16,2024-05-11 12:45:10,Premium,179.29,938.32,3.4,6,False
+CUST_0324,Jacob Davis,52.0,Female,lisa33@example.org,Paris,2024-09-28,2024-03-07 08:46:57,Basic,118.2,,1.7,7,True
+CUST_0325,Laura Stevens,42.0,Male,mariealexander@example.org,London,2024-01-16,2024-05-31 06:10:15,Basic,168.15,,3.9,5,False
+CUST_0326,Megan Hicks,46.0,Female,velasquezadriana@example.com,Paris,2022-11-21,,Enterprise,198.41,4323.03,2.2,7,False
+CUST_0327,Russell Patterson,35.0,Male,drakemichelle@example.net,Sydney,2023-03-13,,Basic,41.09,2437.84,2.9,2,False
+CUST_0328,Curtis Leonard,63.0,Male,christopher70@example.net,Sydney,2024-02-17,2024-11-10 03:40:56,Basic,141.44,4973.36,3.4,1,False
+CUST_0329,Andrea Glenn,35.0,Male,donald94@example.org,New York,2022-12-02,2024-12-09 19:10:28,Basic,138.12,3427.94,1.7,10,False
+CUST_0330,Alexandra Thomas,19.0,Male,benjamin74@example.com,Tokyo,2022-10-15,2024-07-22 22:16:50,Basic,196.19,462.97,4.0,8,True
+CUST_0331,James Kelly,52.0,Female,herrerachristopher@example.com,Paris,2022-10-25,2024-08-10 03:26:33,Basic,197.26,4964.88,2.2,1,True
+CUST_0332,Lindsay Mccall,33.0,Male,marcusgallegos@example.net,New York,2022-11-17,2024-10-08 14:43:54,Premium,140.47,2098.68,3.6,2,False
+CUST_0333,Brittany Schmidt,58.0,Female,diazselena@example.org,Tokyo,2023-12-06,2024-10-11 11:25:37,Basic,56.29,1508.27,1.6,10,False
+CUST_0334,Angie Le,53.0,Female,,Paris,2023-10-30,2024-10-08 20:25:49,Basic,161.73,2833.61,3.8,6,False
+CUST_0335,Amanda Knight,,Female,,London,2023-06-01,2024-12-03 00:45:14,Premium,30.34,1591.11,1.5,1,True
+CUST_0336,Frank Wilson,21.0,Other,huertadalton@example.org,Tokyo,2023-06-24,2025-01-11 08:36:03,Basic,158.33,523.64,2.7,10,True
+CUST_0337,Rebecca Parker,50.0,Female,anthony90@example.net,Sydney,2022-06-15,2024-04-26 16:09:24,Premium,182.94,107.0,2.0,3,True
+CUST_0338,Sarah Martin,31.0,Male,barry21@example.com,New York,2024-01-31,,Premium,82.74,2302.96,4.0,7,False
+CUST_0339,Jill Hicks,38.0,Male,walkerpeter@example.com,Tokyo,2023-04-27,,Basic,129.82,4200.63,2.0,8,False
+CUST_0340,David Dodson,,Male,vancejuan@example.com,Tokyo,2024-07-26,2025-01-28 01:03:31,Premium,91.73,2904.34,4.5,4,False
+CUST_0341,Julia Gregory,37.0,Female,wagnerchelsea@example.com,Sydney,2023-10-13,2024-02-23 00:00:27,Basic,93.18,4996.12,4.6,3,True
+CUST_0342,Gina Roberts,25.0,Male,hughesmichael@example.org,Paris,2022-04-17,2024-03-14 06:55:18,Enterprise,68.97,1505.55,1.8,1,True
+CUST_0343,Jason Reyes,24.0,Female,james18@example.com,London,2024-07-29,,Basic,154.8,1474.23,3.5,9,False
+CUST_0344,Kayla Reyes,20.0,Female,anthony21@example.net,Sydney,2022-09-02,2024-10-11 17:30:23,Enterprise,187.87,882.77,1.4,10,True
+CUST_0345,Sandra Elliott MD,34.0,Male,patrickdawson@example.net,London,2022-10-17,2025-01-20 08:03:31,Premium,188.74,,2.6,6,False
+CUST_0346,Brandy Neal,50.0,Female,edwardleblanc@example.com,Paris,2022-08-20,2024-03-20 08:56:08,Basic,43.21,1497.41,3.9,6,False
+CUST_0347,Frank Weaver,65.0,Male,bbennett@example.net,Tokyo,2024-10-03,2024-12-21 21:05:39,Basic,176.2,3984.92,3.6,9,False
+CUST_0348,Alexis Larson,29.0,Male,lisapeters@example.org,London,2022-08-31,2024-06-21 08:18:56,Enterprise,150.11,4538.21,3.5,1,False
+CUST_0349,James Salas,,Female,jerrywood@example.net,New York,2023-05-10,2025-01-18 13:10:07,Premium,58.04,4877.93,2.1,6,False
+CUST_0350,Judy Caldwell,39.0,Female,,New York,2024-01-26,2024-10-10 07:41:56,Basic,22.78,1238.22,2.5,5,True
+CUST_0351,Todd Wade,39.0,Female,joshuabarrett@example.com,Sydney,2024-06-16,,Premium,60.92,4418.36,1.4,6,False
+CUST_0352,Christopher Garcia,,Male,mchase@example.com,Paris,2022-05-01,,Basic,183.32,1708.45,3.9,8,False
+CUST_0353,Michael Silva,47.0,Male,mikebennett@example.org,Sydney,2022-01-29,2024-05-19 20:23:12,Basic,130.3,652.92,3.0,5,True
+CUST_0354,Stephen Lewis,55.0,Female,melissa19@example.com,Sydney,2024-01-16,2024-05-27 14:04:37,Basic,147.0,,3.8,2,False
+CUST_0355,Savannah Liu,55.0,Female,caitlin93@example.org,Sydney,2022-02-01,2024-11-13 23:49:45,Basic,58.86,3216.92,2.0,2,True
+CUST_0356,Julie Sherman,62.0,Female,jenkinstyler@example.net,New York,2025-01-03,2024-10-09 09:36:35,Premium,146.68,907.18,2.3,10,True
+CUST_0357,Brian Warren,68.0,Male,harrisstacey@example.net,New York,2023-10-10,2024-06-29 08:21:43,Basic,15.34,2206.17,2.3,5,True
+CUST_0358,Melanie Frazier,25.0,Female,rebeccakennedy@example.org,Sydney,2022-12-24,2024-03-09 18:08:05,Premium,81.31,1507.56,1.1,3,False
+CUST_0359,Melinda Morrow,44.0,Male,dorothymorrison@example.com,New York,2023-03-26,2024-02-16 21:13:58,Basic,129.08,,2.4,10,False
+CUST_0360,Bonnie Mullins,44.0,Male,millerrobert@example.com,Paris,2023-11-18,2024-05-12 08:17:50,Basic,37.76,2321.74,4.2,3,False
+CUST_0361,Christopher Burgess,,Other,torresmaria@example.com,Sydney,2022-09-21,2024-03-26 11:28:24,Basic,166.37,4947.47,4.6,8,True
+CUST_0362,Patrick Meyer,38.0,Male,,New York,2023-08-20,2024-08-15 19:01:38,Basic,54.66,368.25,3.1,7,False
+CUST_0363,Jeremy Johnson,47.0,Other,,London,2024-12-16,2024-09-23 07:12:12,Basic,133.93,1839.57,2.8,1,False
+CUST_0364,Shannon Hanna,50.0,Male,gravescarol@example.net,Sydney,2023-05-21,2024-09-17 05:11:19,Basic,86.99,2461.31,1.1,5,False
+CUST_0365,Samuel Yang,45.0,Male,qwilson@example.com,Sydney,2023-10-01,,Basic,123.25,2565.35,4.5,9,True
+CUST_0366,Amanda Marshall,64.0,Female,murphystanley@example.org,Paris,2024-07-19,2024-12-08 03:16:43,Basic,30.42,1648.09,1.1,4,True
+CUST_0367,Marcus Barton,50.0,Female,istevens@example.net,Tokyo,2025-01-19,2024-02-27 15:56:15,Basic,13.21,3673.28,4.8,1,True
+CUST_0368,Ashley Dixon,22.0,Female,amanda53@example.com,Tokyo,2022-02-16,,Basic,182.82,4386.26,3.0,8,False
+CUST_0369,James Fleming,65.0,Female,alfredray@example.com,Paris,2024-07-29,2024-04-07 17:04:53,Premium,61.23,4699.72,2.4,5,False
+CUST_0370,Susan Lowery,36.0,Female,awaters@example.net,Paris,2022-03-22,2024-09-21 14:09:03,Enterprise,165.74,4044.96,4.7,2,False
+CUST_0371,Kaylee Hughes,,Female,aaron07@example.net,Paris,2024-11-23,,Basic,199.88,4267.84,1.1,1,False
+CUST_0372,Russell Evans,52.0,Female,rebecca85@example.net,Tokyo,2023-04-26,2024-12-15 18:32:23,Basic,50.17,2797.67,3.3,3,False
+CUST_0373,Jennifer Lewis,66.0,Male,,Paris,2023-05-23,2024-05-11 23:05:10,Basic,60.38,4146.85,3.2,9,False
+CUST_0374,Rebecca Stevens,34.0,Female,jeremy62@example.org,New York,2024-06-14,,Enterprise,135.94,1587.17,1.9,1,False
+CUST_0375,David Morrison,61.0,Male,,Sydney,2024-11-08,2024-11-19 09:28:27,Basic,193.44,2052.55,2.7,4,True
+CUST_0376,Debra Gonzalez,45.0,Other,,Sydney,2024-12-04,2024-09-17 03:04:32,Basic,184.0,1652.87,3.6,8,True
+CUST_0377,Joyce Dunn,47.0,Other,brownpamela@example.net,London,2024-03-31,,Basic,105.55,2390.2,3.9,8,False
+CUST_0378,David Hoover,46.0,Male,rbrown@example.com,London,2022-11-28,2025-01-19 09:07:00,Basic,161.07,1499.34,1.0,10,False
+CUST_0379,Dennis Collins,63.0,Female,phillipsjeffrey@example.org,Sydney,2022-12-09,2024-09-14 12:24:09,Basic,35.79,4811.9,4.7,8,True
+CUST_0380,Anthony Baldwin,23.0,Other,kennethlopez@example.org,New York,2022-06-26,,Premium,195.71,1632.94,1.7,10,False
+CUST_0381,Cathy Zavala,52.0,Male,stephenmurphy@example.org,Tokyo,2022-03-31,,Basic,193.23,,1.9,8,False
+CUST_0382,Chad Parker,58.0,Female,lisa44@example.org,Tokyo,2023-05-22,2024-08-16 12:37:06,Premium,41.11,2681.4,2.1,4,False
+CUST_0383,Jessica Simpson,54.0,Other,,New York,2022-10-10,2024-09-01 12:10:18,Basic,66.89,379.79,1.2,8,False
+CUST_0384,Andrew Rodriguez,41.0,Male,vstewart@example.net,Tokyo,2022-07-02,2024-11-16 23:33:30,Basic,29.03,,1.5,9,False
+CUST_0385,Charles Hunter,46.0,Female,llowery@example.org,Paris,2022-10-31,2024-02-05 18:15:58,Enterprise,61.63,1175.01,4.9,7,False
+CUST_0386,Sarah Potter,66.0,Male,mccalljessica@example.com,Sydney,2023-08-13,2024-02-06 19:05:15,Basic,165.03,2375.32,2.3,2,True
+CUST_0387,Marcus Turner,63.0,Other,jason02@example.com,Sydney,2024-10-04,2024-02-08 01:34:54,Premium,81.88,2222.93,1.5,9,False
+CUST_0388,Lisa Black,48.0,Other,,New York,2023-01-07,2024-06-07 20:49:43,Basic,26.8,4018.49,1.4,8,False
+CUST_0389,Carlos Gilbert,,Other,djohnson@example.org,Tokyo,2024-01-09,2024-09-04 19:35:20,Basic,75.02,3723.43,3.9,5,False
+CUST_0390,Johnny Miller,50.0,Female,vmendoza@example.org,London,2024-07-03,2024-04-10 16:50:53,Enterprise,196.46,2188.96,4.4,3,False
+CUST_0391,Martin Malone,69.0,Female,mariamiller@example.org,London,2022-04-20,,Basic,129.64,1735.15,2.0,7,True
+CUST_0392,Michael Crawford,38.0,Female,kathrynmccarty@example.net,Tokyo,2024-11-10,,Premium,89.07,1650.7,1.1,2,False
+CUST_0393,Russell Sloan,49.0,Male,tiffanyturner@example.net,London,2024-08-17,2024-06-09 22:56:22,Basic,41.64,,1.9,3,True
+CUST_0394,Meredith Moore,40.0,Female,zbarrett@example.com,New York,2024-02-14,2024-04-30 05:14:50,Premium,197.37,355.15,1.2,9,False
+CUST_0395,Lori Arias,,Male,catherine82@example.net,New York,2022-05-22,2024-11-10 19:00:12,Basic,165.96,162.83,1.4,4,False
+CUST_0396,John Johnson,20.0,Female,coleandrew@example.net,Tokyo,2024-03-28,2024-11-14 01:37:42,Basic,63.48,3998.17,2.7,4,False
+CUST_0397,Mr. Robert Nichols,35.0,Male,wwatson@example.org,London,2023-01-24,2025-01-14 01:55:31,Premium,23.31,2438.02,1.9,3,False
+CUST_0398,Ashley Gibbs MD,42.0,Male,melvin38@example.net,New York,2023-12-22,2024-11-23 03:12:37,Enterprise,20.76,741.32,3.1,5,False
+CUST_0399,Walter Howard,59.0,Male,rnguyen@example.org,New York,2023-04-14,2024-09-26 03:07:39,Enterprise,32.87,1254.27,2.0,3,True
+CUST_0400,Matthew Kim,48.0,Female,manningaustin@example.com,Paris,2024-05-12,2024-04-21 01:39:03,Premium,120.35,4669.27,4.8,9,False
+CUST_0401,Suzanne Mcgee,20.0,Male,cooperchristopher@example.net,Paris,2022-10-14,2024-12-19 07:05:10,Premium,186.47,4311.56,4.6,3,True
+CUST_0402,Megan Henry,57.0,Female,mathewgonzalez@example.net,New York,2022-06-08,2024-08-21 17:38:11,Basic,104.38,3577.95,3.3,2,False
+CUST_0403,Janice Perry,63.0,Male,gilesrachel@example.com,Tokyo,2024-10-03,2024-11-19 10:05:13,Basic,170.16,2462.9,2.4,5,True
+CUST_0404,Ashley Vazquez,41.0,Male,umccoy@example.org,Sydney,2023-03-01,2024-09-18 19:05:33,Basic,94.72,2649.59,2.5,6,False
+CUST_0405,Lauren Christensen,67.0,Female,diazjasmine@example.org,Sydney,2022-04-23,2024-02-14 17:14:15,Basic,144.63,4878.7,2.6,1,False
+CUST_0406,Jeffrey Le,49.0,Female,phelpsjoseph@example.com,New York,2023-04-25,2024-07-10 00:21:23,Basic,149.06,4832.28,3.9,6,False
+CUST_0407,Teresa Bridges,64.0,Male,elizabeth67@example.com,New York,2022-02-28,2024-10-10 10:33:29,Basic,43.05,1154.82,2.8,10,False
+CUST_0408,Tiffany Hayes,39.0,Female,william66@example.org,New York,2023-11-02,,Basic,78.63,4074.41,4.4,3,False
+CUST_0409,Jennifer Neal,40.0,Female,hmichael@example.net,Tokyo,2024-08-02,2024-12-03 22:17:25,Premium,131.09,1066.49,4.8,4,False
+CUST_0410,Mary Shah,19.0,Female,nicholetran@example.com,Paris,2023-07-05,2024-02-10 14:27:18,Basic,23.43,1146.33,2.3,6,False
+CUST_0411,Justin Alvarez,44.0,Male,,New York,2024-12-09,2024-11-11 06:36:46,Basic,78.69,3412.86,3.2,8,False
+CUST_0412,Christopher Martinez,59.0,Male,ronald47@example.net,New York,2024-06-17,2024-02-05 00:37:41,Basic,111.61,2084.51,1.4,9,False
+CUST_0413,Paula Mullins,19.0,Female,keithhurley@example.org,London,2022-06-14,2024-02-22 16:43:59,Premium,199.28,4664.57,1.8,6,False
+CUST_0414,Adam Anderson,43.0,Male,,Tokyo,2023-03-19,2024-09-17 20:59:29,Premium,100.16,536.15,2.7,7,False
+CUST_0415,Alicia Fox,34.0,Female,pricemarc@example.net,New York,2022-07-19,2024-09-15 12:35:53,Premium,165.05,2606.48,1.8,5,False
+CUST_0416,Donna Frye,57.0,Female,christina03@example.net,London,2024-03-24,2024-06-27 17:46:25,Basic,92.09,4600.76,4.5,9,False
+CUST_0417,Ashley Bradford,50.0,Other,robertgarcia@example.com,Sydney,2024-08-01,2024-05-25 21:26:41,Basic,161.31,4530.16,1.6,4,False
+CUST_0418,Robert King,,Female,richardstewart@example.org,New York,2023-09-15,2025-01-22 20:33:08,Basic,123.13,866.99,2.8,10,True
+CUST_0419,Lisa Collins,60.0,Other,kanemichael@example.org,New York,2023-07-10,2024-11-04 06:57:03,Basic,178.45,1896.52,3.4,6,False
+CUST_0420,Shirley Silva,65.0,Male,creyes@example.com,London,2025-01-12,,Basic,88.08,3133.69,3.8,5,False
+CUST_0421,Sarah Terry,56.0,Female,howardmichael@example.org,Tokyo,2025-01-13,2024-10-28 06:56:49,Basic,124.82,881.03,2.5,1,False
+CUST_0422,Andrew Bell,46.0,Male,williamsbrian@example.com,New York,2023-05-08,2024-12-01 09:49:11,Basic,129.7,,4.5,5,False
+CUST_0423,Jason Flores,59.0,Female,lancethompson@example.com,Sydney,2024-07-23,2024-06-08 12:50:01,Enterprise,89.3,4582.27,3.3,5,True
+CUST_0424,Eric Duran,43.0,Female,fmiller@example.net,New York,2023-07-03,,Enterprise,37.42,918.06,2.8,9,True
+CUST_0425,Chris Rocha,52.0,Female,,Sydney,2022-09-01,2024-10-24 22:39:18,Basic,27.78,693.66,1.3,1,False
+CUST_0426,Kelly Rogers MD,67.0,Other,uwhite@example.org,Paris,2023-06-28,2024-12-21 03:17:50,Basic,13.17,518.5,2.9,5,False
+CUST_0427,Joseph Rose,42.0,Female,richardsonraymond@example.net,Paris,2023-02-04,,Basic,175.97,4556.27,4.3,7,False
+CUST_0428,Kenneth Davis,41.0,Male,gomezteresa@example.net,Sydney,2023-09-08,2024-03-27 08:21:16,Basic,54.93,1048.76,3.5,6,False
+CUST_0429,Cynthia Rice,30.0,Male,,Tokyo,2023-01-27,2024-12-06 18:39:08,Enterprise,50.19,2139.8,4.3,6,False
+CUST_0430,Shelly Mendoza,24.0,Female,melindadavis@example.net,New York,2022-08-22,2024-12-18 03:40:46,Basic,149.85,2299.37,3.0,7,False
+CUST_0431,Joseph Camacho,53.0,Male,kvasquez@example.net,New York,2023-02-25,2024-05-13 13:56:16,Premium,70.8,3035.15,1.5,6,False
+CUST_0432,Marisa Sanders,62.0,Male,wesleyruiz@example.com,Paris,2022-06-10,,Basic,106.15,451.5,1.1,5,False
+CUST_0433,Mr. Gerald Brewer,37.0,Male,bhayden@example.com,Sydney,2023-12-29,2024-10-22 20:31:17,Enterprise,40.88,1211.12,2.2,10,False
+CUST_0434,Alexis Howard,,Male,taylorshelia@example.org,New York,2024-05-22,,Basic,192.35,4664.3,3.8,5,True
+CUST_0435,Michele Davis,25.0,Male,danielle34@example.net,New York,2022-02-04,2024-02-29 22:20:50,Premium,171.8,4551.21,4.2,9,False
+CUST_0436,Sharon Patel,63.0,Male,taylorbrian@example.com,Tokyo,2023-11-23,2024-12-05 23:24:30,Basic,174.12,3928.32,2.2,8,False
+CUST_0437,Eddie Davenport,33.0,Male,iarnold@example.net,London,2024-08-10,2024-02-03 17:08:35,Premium,87.29,195.07,3.0,10,False
+CUST_0438,Pamela Johnson,31.0,Male,crystal41@example.net,Paris,2024-01-25,,Basic,154.85,1702.33,2.7,4,False
+CUST_0439,Russell Mccann,29.0,Other,bryanwalker@example.com,Paris,2023-02-11,2024-08-30 22:35:21,Basic,37.34,3177.0,2.6,4,False
+CUST_0440,Jose Cantrell,68.0,Male,michaellong@example.com,London,2024-07-10,2024-04-15 20:56:05,Enterprise,11.64,1448.43,1.9,10,True
+CUST_0441,Yvonne Barnes,40.0,Male,owenrhonda@example.net,New York,2023-01-25,2024-12-22 22:44:20,Enterprise,13.79,4556.97,1.5,5,False
+CUST_0442,Erin Wade,32.0,Female,eric49@example.com,Tokyo,2022-03-18,2024-10-09 10:32:37,Premium,121.45,3206.06,1.8,3,True
+CUST_0443,David Hines,45.0,Male,kevinyoung@example.com,Tokyo,2024-12-27,2024-08-16 04:00:40,Premium,96.53,452.34,1.2,8,False
+CUST_0444,David Grant,51.0,Other,bakerrobert@example.com,Paris,2022-11-21,2024-07-19 03:31:41,Premium,108.42,4554.13,1.8,7,False
+CUST_0445,David Montgomery,19.0,Female,,Tokyo,2022-05-04,2024-11-23 08:25:41,Basic,11.42,4793.06,1.0,5,False
+CUST_0446,Jeffrey Sims,49.0,Male,,London,2022-02-10,2024-05-20 01:35:58,Basic,90.31,480.79,3.5,10,True
+CUST_0447,Christopher Johns,40.0,Male,masonherring@example.net,New York,2022-08-14,,Basic,146.43,2708.57,2.3,3,True
+CUST_0448,Brandi Martin,39.0,Female,nortonmichelle@example.com,London,2024-03-27,2024-03-15 00:47:52,Premium,94.11,1586.48,4.9,5,True
+CUST_0449,Amanda Vasquez,,Other,terricollins@example.org,Sydney,2023-07-14,2024-06-17 10:22:30,Basic,149.12,2024.91,1.8,3,True
+CUST_0450,Jay Gonzalez,42.0,Female,jenniferfoster@example.net,Paris,2023-08-16,2024-04-27 01:36:04,Basic,54.27,980.29,2.4,10,False
+CUST_0451,Isabel Brown,39.0,Female,ole@example.net,Tokyo,2022-02-15,2024-10-26 17:09:29,Basic,164.5,2932.55,2.4,5,False
+CUST_0452,Stacy Stone,39.0,Male,jonesgary@example.org,Sydney,2024-10-11,,Premium,121.8,4794.1,1.0,1,False
+CUST_0453,John Ali,66.0,Other,mbernard@example.org,Tokyo,2023-06-05,2024-06-11 02:54:56,Basic,50.04,2565.06,4.4,6,True
+CUST_0454,Cameron Jones,69.0,Male,benjamin37@example.com,New York,2023-06-12,,Basic,54.98,506.28,1.1,10,False
+CUST_0455,Keith Kirk,59.0,Other,stephanie13@example.net,New York,2023-12-23,,Basic,129.33,3138.01,4.8,4,False
+CUST_0456,Mitchell Carter,,Female,briangates@example.com,New York,2022-08-06,2024-06-06 06:15:52,Basic,167.69,1767.09,4.6,4,True
+CUST_0457,Suzanne Morgan,32.0,Female,dominguezdennis@example.com,Tokyo,2022-12-13,,Basic,88.97,4294.03,3.1,8,False
+CUST_0458,Benjamin Jacobs,60.0,Female,blanchardtony@example.net,Sydney,2022-03-05,2024-08-29 23:33:38,Premium,59.08,2229.92,3.2,2,True
+CUST_0459,Jennifer Simmons,54.0,Male,reedstacy@example.com,New York,2024-03-02,,Premium,174.73,1044.91,3.6,4,True
+CUST_0460,Wendy Gray,50.0,Male,micheal57@example.org,Sydney,2022-09-12,2024-04-25 15:14:00,Premium,137.16,1036.42,2.5,2,False
+CUST_0461,David Mitchell,25.0,Male,xvaughan@example.org,Tokyo,2023-05-23,2024-07-19 06:28:43,Basic,95.14,3866.94,3.6,1,False
+CUST_0462,Becky Nguyen,61.0,Male,sean42@example.net,Sydney,2022-04-29,2024-05-05 17:00:51,Premium,102.7,,1.2,10,False
+CUST_0463,Karen Cook,61.0,Female,floresethan@example.com,Tokyo,2023-07-26,2024-07-19 15:00:32,Basic,48.81,3859.44,1.2,3,False
+CUST_0464,Ronald Jones,22.0,Male,jimenezcharles@example.org,Tokyo,2024-02-10,2025-01-02 21:20:16,Basic,129.09,1108.85,2.8,8,False
+CUST_0465,Hannah Jones,56.0,Male,sweeneybobby@example.org,Paris,2023-11-18,2024-04-02 01:43:06,Premium,78.16,1676.26,3.2,6,False
+CUST_0466,Ashley Werner,21.0,Other,david58@example.com,Tokyo,2022-10-06,2024-12-10 19:37:14,Basic,199.17,2380.89,4.6,7,False
+CUST_0467,Allison Richardson,23.0,Female,emaxwell@example.com,Tokyo,2022-10-04,2024-07-10 21:26:19,Basic,101.23,4721.66,1.4,2,False
+CUST_0468,Heather Thomas,62.0,Other,andrewschristine@example.net,London,2023-12-15,2024-06-13 03:45:59,Premium,102.32,4665.48,4.3,6,True
+CUST_0469,Timothy Hooper,49.0,Other,nicholasedwards@example.net,New York,2023-12-02,2024-11-25 08:45:59,Basic,117.51,1113.67,1.8,8,True
+CUST_0470,Amanda Lewis,69.0,Male,ortizmatthew@example.org,Paris,2023-02-14,2024-07-14 09:49:36,Premium,184.18,1855.27,2.6,8,False
+CUST_0471,Kimberly Gross,47.0,Male,dunnjohn@example.net,Paris,2024-02-09,2024-03-12 18:49:55,Basic,162.16,832.06,2.3,4,False
+CUST_0472,Kayla Jackson,64.0,Female,simselizabeth@example.org,Paris,2023-10-30,2024-11-17 15:40:50,Premium,95.71,2598.93,2.6,6,True
+CUST_0473,Peter Patterson,52.0,Female,tmartin@example.net,London,2024-12-06,2025-01-24 07:59:15,Basic,146.55,2356.85,1.6,5,False
+CUST_0474,Austin Johnson,57.0,Male,amanda27@example.net,Tokyo,2022-08-07,2024-11-16 02:26:20,Basic,121.38,4513.72,3.0,9,True
+CUST_0475,Ricky Allen,69.0,Female,nathan98@example.org,New York,2023-11-12,2024-02-22 01:09:17,Premium,103.55,4657.03,4.2,8,False
+CUST_0476,Heather Harvey,33.0,Male,michael59@example.com,Sydney,2022-01-28,2024-03-13 20:00:18,Basic,46.54,,2.8,2,True
+CUST_0477,Scott Neal,30.0,Male,andrea78@example.net,Tokyo,2024-10-27,2024-04-09 05:38:46,Basic,98.15,2509.52,3.0,7,False
+CUST_0478,Matthew Sanchez,67.0,Female,coopermichael@example.net,London,2024-03-22,2024-10-13 12:12:51,Basic,56.71,4491.56,4.4,7,False
+CUST_0479,Jennifer Guzman,59.0,Female,halltyler@example.org,Tokyo,2024-07-20,,Basic,183.82,4052.87,3.8,1,True
+CUST_0480,Kara Banks,47.0,Female,jamie47@example.net,Tokyo,2024-08-07,2024-06-26 04:04:13,Basic,73.73,117.92,3.0,1,False
+CUST_0481,Donna Reid,36.0,Male,millsjessica@example.net,London,2022-12-22,2024-04-30 16:18:03,Basic,190.93,1668.29,2.0,4,False
+CUST_0482,William White,34.0,Female,rnelson@example.net,Paris,2024-06-23,2025-01-27 18:23:16,Enterprise,111.28,2166.69,4.5,5,True
+CUST_0483,Shelby Mosley,36.0,Male,,Paris,2024-12-26,2024-01-29 17:54:42,Basic,129.99,1225.61,3.3,4,True
+CUST_0484,Jim James,45.0,Male,arellanotheodore@example.org,New York,2022-07-29,2024-11-02 05:28:22,Basic,113.16,1077.9,1.9,7,False
+CUST_0485,Terri Gibbs,43.0,Female,daniel85@example.net,New York,2022-12-10,2024-09-07 23:27:34,Basic,34.58,285.14,2.1,3,False
+CUST_0486,Stephen Charles,54.0,Other,linda86@example.net,Paris,2023-12-14,2024-06-09 18:33:54,Basic,81.41,3252.51,4.2,7,False
+CUST_0487,Sandra Hernandez,43.0,Female,allenmcguire@example.org,Sydney,2023-11-08,2024-10-08 10:15:25,Enterprise,28.84,1386.3,1.2,8,True
+CUST_0488,Mallory Kelly,40.0,Female,xmitchell@example.org,Tokyo,2022-08-11,2024-06-15 20:48:21,Basic,128.36,356.5,5.0,6,False
+CUST_0489,Russell Williams,26.0,Female,sextonaaron@example.net,Sydney,2024-03-03,2024-04-21 07:04:37,Enterprise,94.91,1231.8,1.5,6,True
+CUST_0490,Carlos Harvey,29.0,Female,benjamin06@example.com,Tokyo,2022-10-23,2024-11-15 09:25:51,Basic,157.82,4029.38,4.2,8,False
+CUST_0491,Kendra Buchanan,18.0,Male,brian78@example.net,Paris,2024-04-05,2024-10-20 22:00:30,Premium,51.89,4272.3,2.6,8,False
+CUST_0492,Edward Murphy,18.0,Male,ylee@example.org,New York,2022-06-24,2024-04-03 16:20:38,Basic,41.27,2467.02,3.0,7,False
+CUST_0493,Julie Edwards,64.0,Male,ilee@example.net,New York,2024-06-18,,Premium,87.2,2138.75,4.5,6,False
+CUST_0494,John Robinson,51.0,Male,valerie02@example.org,Sydney,2022-11-24,2024-12-23 02:40:16,Basic,186.05,4891.48,2.7,6,False
+CUST_0495,Jill Holloway,49.0,Female,rebecca29@example.org,New York,2023-03-20,,Basic,144.98,1082.77,3.1,10,False
+CUST_0496,Amanda Martin,65.0,Female,,Paris,2023-05-13,2024-08-14 23:24:12,Basic,89.6,1155.26,1.2,6,False
+CUST_0497,Cheryl Thomas,42.0,Male,martinderrick@example.net,Sydney,2022-06-29,2024-06-13 02:00:53,Basic,108.28,1530.15,1.0,8,False
+CUST_0498,Amy Mathews,57.0,Male,mathisfrances@example.com,Tokyo,2024-08-19,2024-02-25 01:40:49,Enterprise,26.0,946.51,2.0,1,False
+CUST_0499,Karen Erickson,62.0,Female,brandon57@example.org,New York,2022-10-02,2024-02-08 22:24:00,Basic,197.07,1958.89,3.7,5,False
+CUST_0500,Alexander Reyes,18.0,Male,greenjillian@example.com,London,2023-11-19,2024-08-13 10:35:07,Basic,136.62,4563.09,1.5,3,False
+CUST_0501,Benjamin Jones,33.0,Female,,New York,2022-07-18,2024-09-09 03:10:19,Premium,64.23,3115.2,1.5,8,False
+CUST_0502,Peter Reilly,56.0,Female,holly79@example.org,Tokyo,2023-10-12,2025-01-15 08:38:37,Basic,121.3,2118.54,2.6,6,False
+CUST_0503,Timothy Johnson,22.0,Female,tdavis@example.org,Sydney,2023-06-04,2024-06-10 12:27:05,Enterprise,30.8,4678.61,3.6,2,False
+CUST_0504,Michael Williams,39.0,Female,greenashley@example.org,Tokyo,2022-04-16,2024-05-27 17:52:04,Premium,193.51,337.47,3.8,7,False
+CUST_0505,David Perkins,46.0,Female,moralesandres@example.net,London,2023-07-17,2024-08-28 13:03:50,Basic,43.21,1130.35,1.7,7,False
+CUST_0506,Michele Castillo,20.0,Male,timothy60@example.org,Paris,2022-10-20,2025-01-16 07:39:46,Premium,133.13,,1.3,5,False
+CUST_0507,Patrick Brown,29.0,Female,liumark@example.net,New York,2022-05-18,2024-09-03 03:10:53,Basic,56.64,3116.21,4.8,8,False
+CUST_0508,Christopher Mcdonald,43.0,Female,tterrell@example.org,Sydney,2023-10-26,,Basic,146.34,293.83,2.0,5,False
+CUST_0509,Sharon Norris,33.0,Male,andrewsmith@example.org,Paris,2023-05-19,2024-05-20 13:58:21,Basic,157.6,2074.89,4.4,1,False
+CUST_0510,Christopher Stewart,68.0,Female,jeff22@example.org,Tokyo,2023-12-03,2024-06-25 18:57:54,Basic,137.95,3280.85,4.5,9,False
+CUST_0511,Megan Jackson,54.0,Female,gregorynorris@example.net,Sydney,2023-01-24,2024-07-03 03:38:23,Premium,126.75,3520.55,4.1,4,False
+CUST_0512,Andrew Davis,,Female,elizabethmontoya@example.org,Paris,2023-10-23,,Enterprise,179.57,3226.89,1.7,2,False
+CUST_0513,Mindy Chavez,46.0,Female,ymathews@example.org,Sydney,2023-11-02,2024-05-18 08:51:18,Basic,24.94,1670.76,4.3,4,False
+CUST_0514,Jason Smith,31.0,Female,christine52@example.net,London,2023-07-28,,Basic,72.87,558.25,4.1,9,True
+CUST_0515,Angela Banks,,Female,fkim@example.org,London,2023-12-29,2024-05-04 00:37:10,Enterprise,57.17,,3.4,2,True
+CUST_0516,Jessica Mitchell,22.0,Female,pamela05@example.org,New York,2024-07-13,2024-07-10 14:48:51,Basic,197.72,730.9,2.3,4,True
+CUST_0517,Nicole Hurley,64.0,Female,hfranklin@example.net,New York,2022-04-14,2024-12-10 15:35:42,Basic,83.98,4743.36,2.1,2,False
+CUST_0518,Evan Deleon,66.0,Female,jessegomez@example.org,London,2024-12-03,2024-11-12 07:29:44,Basic,149.2,2428.34,1.5,5,False
+CUST_0519,Douglas Boyd,47.0,Female,johnsondavid@example.com,Sydney,2024-05-16,2024-11-21 05:17:02,Enterprise,140.1,1654.57,3.0,3,True
+CUST_0520,Alexandria Kerr,63.0,Female,taylorbarber@example.net,London,2024-11-07,,Basic,50.3,3854.89,3.3,10,False
+CUST_0521,Matthew Black,69.0,Male,omason@example.net,New York,2024-07-23,,Premium,55.41,2539.95,2.4,2,False
+CUST_0522,Susan Dillon,22.0,Female,fstein@example.com,London,2022-11-20,2024-04-16 13:23:11,Premium,63.44,1619.17,2.9,9,False
+CUST_0523,Debra Ford,,Female,gonzalezalexandra@example.org,London,2023-04-01,2024-12-01 01:01:22,Basic,88.11,4078.64,2.5,5,False
+CUST_0524,Michelle Barber MD,33.0,Male,reedjerry@example.net,Sydney,2024-09-12,2024-11-01 20:35:53,Basic,54.52,4349.05,3.6,10,False
+CUST_0525,Kyle Patrick,43.0,Female,alyssabaker@example.com,Paris,2022-09-05,,Premium,13.73,,4.6,5,True
+CUST_0526,Wesley Graham,43.0,Male,kingjerome@example.net,New York,2024-05-17,2024-07-11 05:55:57,Basic,177.08,330.13,1.7,1,False
+CUST_0527,Jennifer Anderson,65.0,Male,paigenguyen@example.net,Sydney,2024-05-08,,Premium,193.47,2874.98,2.5,6,True
+CUST_0528,Ronald Lee,38.0,Female,daviescourtney@example.net,London,2024-11-28,,Enterprise,74.9,3840.15,1.6,7,False
+CUST_0529,Jessica Nguyen,,Male,bondrobert@example.net,London,2023-08-26,2024-04-22 23:24:18,Premium,74.32,,3.5,1,False
+CUST_0530,Haley Torres,53.0,Female,tbright@example.org,Paris,2022-12-07,2024-11-08 08:12:44,Premium,11.35,1220.49,3.9,9,True
+CUST_0531,Mario Schroeder,50.0,Female,codyrobinson@example.org,New York,2023-06-05,,Premium,139.25,4424.23,4.7,8,True
+CUST_0532,Timothy Peters,47.0,Female,marygutierrez@example.org,New York,2024-02-12,2024-08-14 18:56:23,Premium,166.83,198.6,2.1,8,False
+CUST_0533,Nathan Lawrence,54.0,Male,eholt@example.net,Tokyo,2022-02-01,,Basic,37.86,3788.36,4.8,7,False
+CUST_0534,Gregory Rodriguez,40.0,Male,jenkinsrobert@example.com,New York,2024-08-22,2024-11-16 21:05:57,Basic,40.34,2421.49,1.3,5,False
+CUST_0535,Julia Reynolds,27.0,Female,hbest@example.org,Paris,2023-11-21,2024-04-03 11:33:07,Basic,160.12,2289.18,3.4,3,True
+CUST_0536,Brandy Sanchez,22.0,Other,,Tokyo,2025-01-13,,Premium,127.1,134.77,1.2,9,True
+CUST_0537,Amber Buchanan,53.0,Female,smithbecky@example.com,Tokyo,2024-02-06,2024-10-04 11:43:11,Basic,18.52,4115.05,4.6,7,False
+CUST_0538,Daniel Shea,51.0,Male,kimberly79@example.com,London,2023-02-14,2025-01-21 08:36:29,Premium,128.28,1863.14,3.1,10,True
+CUST_0539,Darrell Schmidt,69.0,Female,hardingapril@example.org,London,2022-10-25,2024-06-30 00:53:48,Basic,68.69,2749.75,3.7,10,False
+CUST_0540,Melissa Davila,48.0,Female,jerryleon@example.net,New York,2023-01-30,2024-11-17 07:01:58,Premium,80.06,3418.77,4.3,8,True
+CUST_0541,Christopher Clark,27.0,Female,nathanvalencia@example.com,Tokyo,2024-08-07,,Basic,156.25,3542.88,1.6,6,False
+CUST_0542,Rose Davis,36.0,Male,bishopdavid@example.net,London,2022-09-13,,Premium,164.08,4784.3,1.2,5,True
+CUST_0543,Mathew Ford,49.0,Female,michaeljohnson@example.com,Paris,2023-08-27,2024-07-23 01:26:28,Basic,86.07,2703.57,4.5,8,True
+CUST_0544,Jonathan Moore,18.0,Female,karen00@example.org,London,2022-03-01,2024-04-23 22:38:24,Basic,189.96,2058.63,2.3,3,False
+CUST_0545,Michael Simmons,22.0,Other,qramirez@example.com,London,2024-08-15,,Basic,87.23,4773.15,1.5,7,False
+CUST_0546,Rachel Mueller,62.0,Male,villegaskelly@example.net,Tokyo,2024-10-27,2024-09-11 19:30:42,Premium,156.65,3246.34,2.9,2,True
+CUST_0547,Jordan Perez,21.0,Female,,Tokyo,2024-02-19,,Basic,101.94,1560.94,3.4,3,True
+CUST_0548,Jacob Brock,33.0,Other,rlong@example.net,Sydney,2024-12-29,2024-12-16 08:25:06,Basic,180.53,719.67,1.1,2,True
+CUST_0549,Jessica Hunter,41.0,Male,jessicagreen@example.org,Paris,2023-07-10,2024-07-04 00:06:00,Enterprise,182.47,4228.52,2.1,5,False
+CUST_0550,Elizabeth Smith,33.0,Other,bryan53@example.com,Tokyo,2022-05-08,,Premium,26.61,1874.69,1.1,7,False
+CUST_0551,Allison Martinez,19.0,Female,jduke@example.net,New York,2023-04-20,2024-06-07 11:04:01,Enterprise,187.93,3336.3,2.7,10,True
+CUST_0552,Deborah Herman,66.0,Male,telliott@example.org,Paris,2023-03-07,2025-01-09 08:24:24,Basic,166.85,2407.0,4.6,10,False
+CUST_0553,Jessica Green,,Male,nhanson@example.com,Paris,2024-06-18,2024-10-22 17:21:31,Basic,160.35,1074.76,4.9,1,False
+CUST_0554,Calvin Carney,49.0,Female,jonathan05@example.org,Tokyo,2024-05-07,2024-01-31 03:01:24,Premium,48.17,3048.26,3.5,10,False
+CUST_0555,Lynn Bailey,,Male,larasandy@example.com,Paris,2023-12-14,2024-07-12 15:32:03,Basic,162.97,397.35,1.6,9,False
+CUST_0556,Erika Thompson,,Female,nancyfritz@example.net,Tokyo,2023-05-23,2024-06-18 14:27:59,Premium,171.53,,4.6,1,False
+CUST_0557,Mark Kaufman,41.0,Male,cynthia28@example.net,London,2023-11-28,2024-11-20 08:43:08,Basic,64.94,2778.41,3.1,1,True
+CUST_0558,Stanley Hughes,,Female,xlloyd@example.net,Sydney,2024-09-11,2024-07-03 03:56:39,Basic,190.93,2236.63,1.6,10,True
+CUST_0559,Nathaniel Morgan,67.0,Male,gcosta@example.net,London,2024-05-20,2024-11-23 03:59:07,Basic,19.47,3768.49,4.7,8,False
+CUST_0560,Angela Haas,52.0,Female,brandon06@example.org,Tokyo,2023-05-02,2024-12-13 06:28:27,Basic,38.48,4156.83,4.0,6,False
+CUST_0561,Laura Yu,50.0,Other,davidyoung@example.com,Tokyo,2022-12-10,,Basic,112.14,3879.09,3.9,6,False
+CUST_0562,Donna Webb,50.0,Other,vpittman@example.org,London,2023-10-25,2024-08-22 09:06:16,Basic,119.4,290.18,3.8,9,False
+CUST_0563,Vincent Hill,68.0,Female,dandrews@example.net,New York,2023-11-28,2024-12-15 17:03:07,Enterprise,132.58,1051.23,1.8,4,False
+CUST_0564,James Gilbert,60.0,Male,xshaw@example.com,New York,2023-05-24,2024-05-28 02:17:36,Basic,13.22,2729.38,1.8,8,False
+CUST_0565,Caitlin Martin,54.0,Female,ashley35@example.org,New York,2024-08-17,2024-06-24 22:43:08,Premium,192.47,4680.63,3.8,4,True
+CUST_0566,Joseph Schaefer,29.0,Male,michelle91@example.com,Tokyo,2024-05-23,2024-04-29 23:48:25,Premium,18.47,4191.29,1.9,2,False
+CUST_0567,Steven Walker,20.0,Male,jhamilton@example.org,Paris,2024-07-19,2024-08-10 08:55:01,Basic,37.18,4228.42,2.8,8,True
+CUST_0568,Ryan Brown,18.0,Male,,Tokyo,2023-06-12,2024-09-22 04:09:36,Basic,12.66,1585.72,4.1,7,True
+CUST_0569,Johnny Edwards,50.0,Female,cookryan@example.net,Paris,2022-04-10,,Premium,117.7,2204.29,4.1,4,False
+CUST_0570,Ronald Fischer,57.0,Female,lunakaren@example.net,London,2023-07-05,2024-02-26 20:54:16,Premium,187.13,2406.46,2.8,9,True
+CUST_0571,Katherine Miller MD,27.0,Female,cameronkaitlin@example.org,Sydney,2023-01-04,2024-03-28 03:29:04,Premium,136.53,871.12,4.2,9,True
+CUST_0572,Sharon Rosales,60.0,Male,kimberly57@example.net,Paris,2024-01-13,2024-06-17 12:28:15,Premium,166.3,252.23,4.4,8,True
+CUST_0573,Philip Schultz,61.0,Male,crawfordkimberly@example.net,New York,2024-10-30,,Enterprise,12.52,4739.82,3.6,1,False
+CUST_0574,Michael Myers,46.0,Other,qgonzales@example.net,Tokyo,2023-06-08,2024-02-19 14:35:29,Basic,112.98,1279.49,1.9,7,False
+CUST_0575,Brittney Moore,30.0,Male,tjohnson@example.org,London,2023-10-21,2024-06-22 09:55:11,Basic,97.32,1275.75,2.1,5,True
+CUST_0576,Jeremy Lopez,29.0,Female,russell56@example.org,New York,2022-02-24,,Premium,104.8,508.56,2.3,7,False
+CUST_0577,Christopher Solomon,48.0,Male,,London,2022-06-11,2024-07-11 05:32:13,Basic,23.72,4649.69,1.5,9,True
+CUST_0578,Carolyn Sherman,63.0,Female,udavis@example.com,Sydney,2023-09-26,2024-08-20 07:52:04,Premium,140.04,2940.71,2.1,2,False
+CUST_0579,Joanne Higgins,19.0,Female,johnbauer@example.com,Tokyo,2023-01-31,2024-12-13 07:03:20,Basic,105.61,3368.48,1.8,4,False
+CUST_0580,Bryan Wise,68.0,Male,kerickson@example.net,Tokyo,2024-07-28,2024-04-08 15:30:08,Basic,155.38,4566.73,2.8,4,False
+CUST_0581,Edward Gardner,67.0,Male,aburgess@example.com,Sydney,2024-09-23,2024-07-09 14:28:54,Premium,102.21,1793.54,4.6,2,False
+CUST_0582,Nichole Rogers,52.0,Female,gina11@example.com,Tokyo,2023-07-07,,Basic,38.38,3145.39,1.4,3,False
+CUST_0583,Rebecca Alvarez,40.0,Female,craigmarshall@example.com,Paris,2022-09-18,2024-06-11 02:55:14,Basic,133.17,290.12,3.9,8,False
+CUST_0584,Danielle Wheeler,34.0,Male,xirwin@example.net,London,2024-02-07,2025-01-25 13:30:27,Basic,42.75,1015.19,3.7,9,False
+CUST_0585,Curtis Little,43.0,Other,heather55@example.net,New York,2022-09-10,2024-11-08 14:02:06,Premium,175.75,4173.1,1.4,6,False
+CUST_0586,Anthony Stewart,25.0,Male,mistytorres@example.net,Sydney,2022-07-27,,Basic,126.49,3857.16,4.7,10,False
+CUST_0587,Brian Garner,46.0,Male,,Paris,2024-12-21,,Premium,39.87,1818.15,3.3,2,False
+CUST_0588,Frederick Salas,43.0,Other,wbishop@example.com,New York,2022-09-26,2024-02-10 05:57:12,Basic,192.84,1946.37,2.5,2,True
+CUST_0589,Joel Gonzalez,27.0,Male,,New York,2022-08-13,2024-10-08 19:05:41,Premium,108.49,2714.42,4.0,7,True
+CUST_0590,Chris Martin,43.0,Female,ygardner@example.com,Sydney,2022-02-25,2024-11-20 14:11:20,Premium,23.85,101.18,2.0,8,False
+CUST_0591,Jeffrey Chang,51.0,Male,natashalove@example.com,Paris,2025-01-03,2024-07-24 19:34:24,Basic,129.1,1282.1,3.8,8,False
+CUST_0592,Steven Henry,68.0,Male,brooksmarcus@example.org,New York,2024-07-19,,Basic,58.11,1120.34,1.2,6,False
+CUST_0593,Michael Mercado,58.0,Other,douglashanna@example.net,New York,2023-09-17,,Basic,162.7,1327.37,4.4,10,True
+CUST_0594,Michael Roman,24.0,Male,bmills@example.org,Paris,2022-09-25,2024-08-07 05:29:53,Premium,165.39,4048.94,2.8,8,True
+CUST_0595,Joseph Walker,21.0,Female,sharrell@example.org,Tokyo,2022-02-27,2025-01-28 11:10:03,Basic,196.0,1470.4,3.5,1,False
+CUST_0596,Christopher Wells,67.0,Male,,New York,2023-03-12,,Premium,105.36,1038.45,1.9,9,False
+CUST_0597,Stanley Butler,62.0,Male,natalieandrews@example.com,London,2024-10-24,2024-11-29 22:34:10,Basic,96.44,2570.89,3.7,1,True
+CUST_0598,Jessica Blake,28.0,Male,diane23@example.net,Paris,2024-12-13,2024-07-06 02:19:56,Basic,153.16,4341.66,4.1,3,False
+CUST_0599,Benjamin Davis,46.0,Female,atkinsbarbara@example.org,New York,2023-08-15,2024-05-11 02:20:22,Basic,35.17,1282.61,2.9,9,False
+CUST_0600,Carrie Parker,53.0,Male,vreeves@example.org,Sydney,2023-08-15,2024-12-05 20:35:52,Basic,113.91,484.83,3.5,5,False
+CUST_0601,Teresa Stanton,42.0,Female,phahn@example.net,London,2024-09-29,2024-11-14 14:12:37,Basic,113.79,,2.8,9,False
+CUST_0602,George Robinson,38.0,Female,cheryl99@example.org,New York,2024-09-20,2024-10-15 17:59:46,Premium,27.0,3763.49,4.6,9,False
+CUST_0603,Melissa Baker,53.0,Other,,London,2023-02-18,2024-05-14 12:44:35,Premium,89.42,,3.0,6,False
+CUST_0604,Jesse Solomon,27.0,Male,vhouse@example.net,London,2023-12-24,2024-03-28 12:43:04,Basic,172.12,4102.29,4.4,1,False
+CUST_0605,David Lyons,54.0,Female,sheilaberry@example.net,Tokyo,2023-12-15,2024-12-28 19:24:23,Enterprise,172.67,4802.0,4.2,10,True
+CUST_0606,Martha Smith,26.0,Female,,London,2024-09-30,2024-09-24 10:24:54,Premium,28.86,3984.05,2.6,7,False
+CUST_0607,Mr. Jonathan Schmidt PhD,,Female,vparker@example.net,Tokyo,2023-02-03,2024-06-11 22:29:44,Enterprise,27.24,3058.64,1.9,6,True
+CUST_0608,Desiree Best,52.0,Female,whitneyrice@example.net,Paris,2024-09-01,2024-02-17 23:32:52,Basic,59.91,2517.37,2.6,9,True
+CUST_0609,Steven Lopez,66.0,Female,dmorgan@example.org,Tokyo,2022-12-14,2024-12-23 23:25:17,Basic,176.21,296.34,4.3,7,False
+CUST_0610,Traci Swanson,52.0,Female,muellerdenise@example.net,Sydney,2024-12-03,,Basic,34.49,4923.18,1.9,4,False
+CUST_0611,Robert Rios,65.0,Male,,New York,2024-02-17,2024-11-14 14:29:42,Premium,146.8,1979.06,3.1,7,False
+CUST_0612,Hannah Castillo,53.0,Male,scottcorey@example.net,Paris,2025-01-27,2024-06-03 02:38:41,Basic,29.22,845.92,4.2,2,False
+CUST_0613,Angela Shepherd,35.0,Other,anna53@example.com,Paris,2023-08-25,2024-02-12 22:19:39,Basic,128.4,3366.87,2.4,6,False
+CUST_0614,Cindy Jones,66.0,Female,samantha94@example.org,Sydney,2023-12-27,2024-09-25 11:10:18,Basic,77.65,1493.01,3.6,6,False
+CUST_0615,Jennifer Nguyen,56.0,Female,,Tokyo,2022-04-10,,Basic,159.89,2970.31,2.0,2,False
+CUST_0616,Julie Gallagher,49.0,Female,hodgemichael@example.org,New York,2024-09-30,2024-07-30 06:23:32,Premium,54.4,2975.16,1.4,4,False
+CUST_0617,David Luna,41.0,Male,tinaleonard@example.org,Tokyo,2023-03-26,,Basic,131.45,2284.08,4.2,8,True
+CUST_0618,Virginia Ellis,40.0,Male,sgarrett@example.net,London,2024-12-01,2024-05-15 03:20:17,Basic,54.78,4196.98,1.4,8,False
+CUST_0619,Jodi Santos,,Female,qhodges@example.com,Tokyo,2023-08-16,2024-02-11 13:47:31,Premium,145.6,1398.34,2.1,8,False
+CUST_0620,Mr. Jeffery King DDS,54.0,Male,dyoung@example.net,Paris,2024-01-26,2024-12-06 06:37:54,Enterprise,176.0,2298.3,4.4,8,False
+CUST_0621,Christian Hale,29.0,Male,chanangela@example.com,New York,2024-12-01,2024-04-30 05:08:15,Premium,34.09,2734.69,2.4,1,False
+CUST_0622,David Smith,,Female,uhensley@example.org,Tokyo,2024-11-20,2024-11-24 16:47:39,Enterprise,174.65,3351.76,4.9,2,False
+CUST_0623,Taylor Johnson,,Male,levimartin@example.org,New York,2022-06-16,2024-08-13 05:23:40,Premium,122.78,3941.46,4.9,4,False
+CUST_0624,Joel Morris,40.0,Female,dreese@example.net,New York,2022-07-29,2024-12-05 11:45:34,Basic,34.15,2034.56,2.1,9,False
+CUST_0625,Francis Brown,42.0,Male,rebecca96@example.net,London,2024-12-29,2024-12-25 13:09:40,Basic,91.23,3265.63,1.2,3,False
+CUST_0626,Mary Kelly,52.0,Female,toddrivera@example.net,London,2023-03-17,2024-07-28 15:28:16,Premium,40.56,837.99,3.8,6,True
+CUST_0627,Anthony Davis,58.0,Male,cartercindy@example.com,Paris,2022-02-09,2024-04-05 05:49:55,Premium,143.07,4669.98,2.8,7,True
+CUST_0628,Cindy Robinson,47.0,Female,khoffman@example.com,Sydney,2022-06-18,2024-09-09 17:23:27,Premium,154.18,1976.99,1.4,8,False
+CUST_0629,Chase Murray,34.0,Male,sarahharris@example.com,New York,2023-08-21,2024-10-02 07:30:21,Basic,30.1,3674.65,3.8,7,True
+CUST_0630,Christopher Ellis,,Male,justinramos@example.com,Sydney,2024-05-31,2024-02-04 23:07:50,Basic,106.17,199.67,1.1,3,False
+CUST_0631,Sara Clark,37.0,Male,uellis@example.org,Paris,2022-03-20,2024-09-26 21:59:04,Basic,164.78,1105.42,4.5,6,False
+CUST_0632,Patrick Davis PhD,65.0,Female,daisy33@example.com,New York,2024-01-29,2024-02-18 00:45:32,Basic,187.87,2486.7,1.6,5,True
+CUST_0633,Nicholas Mckee,42.0,Female,nicolesmith@example.com,New York,2022-11-17,2024-08-28 02:48:33,Basic,107.57,,1.5,10,True
+CUST_0634,Willie Parker,39.0,Male,rtaylor@example.com,Sydney,2024-04-25,2024-04-08 16:25:26,Premium,190.55,2683.55,1.7,4,False
+CUST_0635,Jesse Lindsey,30.0,Female,jaime19@example.org,Tokyo,2023-03-07,2024-04-17 21:22:27,Basic,111.78,4656.37,4.8,1,False
+CUST_0636,Jacqueline Williams,36.0,Female,kristinajohnson@example.org,London,2024-03-28,2024-06-11 02:58:11,Basic,84.9,2470.6,3.8,7,False
+CUST_0637,Chase Myers,66.0,Female,joshua36@example.com,Tokyo,2024-07-12,2024-12-04 16:33:41,Basic,171.16,2503.2,4.2,8,False
+CUST_0638,Steven Webb,53.0,Male,brandi45@example.net,Sydney,2024-11-24,,Premium,103.67,686.76,2.6,2,False
+CUST_0639,Michael Waters,29.0,Female,deborah01@example.com,London,2023-11-15,2024-08-09 17:10:41,Basic,99.66,4033.02,2.3,7,False
+CUST_0640,Sean Wheeler,58.0,Male,cody76@example.org,Tokyo,2023-12-14,,Basic,103.16,1310.13,1.9,6,False
+CUST_0641,Thomas Skinner,36.0,Male,douglasraymond@example.net,London,2024-12-22,2024-08-12 01:43:25,Basic,170.89,4508.1,2.9,5,False
+CUST_0642,Katherine Lee,29.0,Other,watsonjennifer@example.com,New York,2023-05-24,2024-09-26 15:06:34,Basic,168.07,4563.04,3.2,4,True
+CUST_0643,Theresa Aguirre,26.0,Male,tina84@example.com,Tokyo,2022-12-18,2024-10-25 18:46:42,Enterprise,86.67,4722.22,3.5,2,False
+CUST_0644,Anita Hamilton,24.0,Female,,London,2024-06-26,2024-06-13 09:13:52,Enterprise,73.33,2649.13,2.0,10,False
+CUST_0645,Donna Castro,45.0,Female,hinesrobert@example.com,London,2022-03-28,2024-09-13 15:08:40,Basic,103.47,3417.76,4.8,6,True
+CUST_0646,Donald Ryan,31.0,Female,kbauer@example.org,London,2022-07-02,2024-08-12 22:36:48,Basic,118.83,3914.73,1.7,5,True
+CUST_0647,Crystal Maddox,48.0,Female,duncancindy@example.org,Tokyo,2022-05-17,2024-07-03 05:18:25,Premium,55.28,741.97,4.9,2,False
+CUST_0648,Norma Howe,69.0,Male,,Paris,2023-10-27,,Basic,160.85,3044.69,1.1,10,True
+CUST_0649,Aaron Coleman,36.0,Male,kevin41@example.org,Tokyo,2024-08-18,,Basic,102.43,268.06,2.9,7,True
+CUST_0650,Janet Castro,64.0,Female,josephhuffman@example.com,Sydney,2023-06-07,2024-06-15 13:42:23,Basic,73.47,2538.07,2.3,6,False
+CUST_0651,Amy Baird,33.0,Male,lisa65@example.net,Tokyo,2024-12-22,2024-06-16 13:46:10,Enterprise,30.3,858.73,2.8,9,False
+CUST_0652,Melinda Dixon,22.0,Male,james45@example.com,London,2023-06-21,2024-06-10 23:24:44,Basic,55.38,996.32,3.3,10,False
+CUST_0653,Evelyn Chambers,52.0,Male,denise14@example.org,New York,2024-07-10,2024-09-22 18:21:31,Basic,190.36,1888.73,2.7,5,False
+CUST_0654,Sheila Harris,29.0,Male,desireejones@example.com,Tokyo,2023-07-05,2024-04-26 04:11:45,Premium,67.97,2218.94,2.7,9,False
+CUST_0655,Don Parker,42.0,Male,jeffrey91@example.com,Tokyo,2024-02-08,2024-04-17 10:00:42,Basic,42.08,3153.54,3.9,9,False
+CUST_0656,Jonathan Price,69.0,Male,allisongreen@example.net,London,2022-05-22,2024-05-23 22:25:15,Basic,97.53,464.7,3.7,1,True
+CUST_0657,Thomas Page,38.0,Female,donna65@example.org,New York,2023-01-17,2025-01-12 09:35:38,Enterprise,68.35,2568.09,4.3,5,False
+CUST_0658,Stephen Simpson,53.0,Female,vbaker@example.net,New York,2023-07-21,2024-05-21 04:42:29,Basic,16.68,994.86,2.0,9,False
+CUST_0659,Mary Munoz,40.0,Female,,Sydney,2023-07-08,2024-03-30 23:20:10,Premium,71.4,2912.48,3.4,7,False
+CUST_0660,Jennifer Lee,,Male,,Tokyo,2023-01-27,2024-11-15 12:38:52,Basic,113.38,3223.28,3.3,6,False
+CUST_0661,Roger Gonzalez,56.0,Male,rodriguezsara@example.com,New York,2023-01-16,2024-01-31 04:03:02,Basic,114.83,2827.88,2.5,6,False
+CUST_0662,Joe Osborn,62.0,Male,,New York,2022-09-11,2024-04-02 04:28:18,Basic,77.75,3717.65,2.9,7,False
+CUST_0663,Amy Good,59.0,Female,javiersmith@example.org,Paris,2023-04-12,2024-03-28 05:34:35,Basic,94.99,1744.49,2.3,1,False
+CUST_0664,Susan Paul,,Female,christopher54@example.org,Paris,2024-11-25,2024-09-25 03:45:01,Basic,193.45,3849.02,1.6,4,False
+CUST_0665,Teresa Thompson,31.0,Male,ple@example.org,New York,2024-10-24,2024-08-16 05:00:36,Premium,81.7,,1.9,1,False
+CUST_0666,Jeffrey Martin,48.0,Other,wabbott@example.net,Sydney,2023-05-08,2025-01-28 03:42:38,Basic,59.06,2472.5,1.4,6,False
+CUST_0667,Peggy Anderson,22.0,Male,amberhernandez@example.org,New York,2023-08-12,2024-07-22 21:59:24,Basic,56.26,3275.7,3.7,4,False
+CUST_0668,Felicia Mcguire,52.0,Female,martinbennett@example.net,London,2022-02-19,,Basic,96.98,189.96,3.6,1,False
+CUST_0669,Ms. Maria Bradford,40.0,Female,jwhite@example.net,Tokyo,2024-05-14,,Premium,154.31,3304.57,4.8,9,True
+CUST_0670,Lisa Miranda,46.0,Female,mckayluis@example.org,Sydney,2024-04-18,2024-02-09 11:55:51,Basic,49.14,3131.07,3.9,4,True
+CUST_0671,Cindy Davis,60.0,Female,,London,2023-07-29,2024-10-25 10:27:14,Basic,144.77,1618.25,1.2,6,False
+CUST_0672,Evelyn Davis,28.0,Female,odecker@example.com,Sydney,2024-12-23,,Basic,14.02,520.39,4.5,7,False
+CUST_0673,Dr. Tanya Barrett,35.0,Male,stevenjackson@example.org,London,2022-02-22,2024-06-25 21:32:39,Basic,89.6,545.58,4.5,8,True
+CUST_0674,Alexander Robinson,64.0,Female,dtyler@example.com,Tokyo,2024-11-26,2024-05-11 13:03:43,Basic,157.41,4623.8,2.8,9,True
+CUST_0675,James Mullins,29.0,Male,anna46@example.org,Tokyo,2023-11-05,2024-10-13 10:04:11,Premium,74.36,3477.47,3.3,9,False
+CUST_0676,Jessica Rubio,26.0,Female,cortezbrenda@example.net,Paris,2023-06-18,2024-09-20 01:55:10,Basic,117.11,722.8,4.9,8,False
+CUST_0677,Melissa Fleming,27.0,Female,rangelrachel@example.org,London,2023-01-11,2024-10-15 02:02:27,Basic,48.95,1847.94,3.1,10,False
+CUST_0678,Nicole Wilson,61.0,Female,alexander15@example.net,Paris,2022-06-26,2024-11-23 21:08:40,Basic,150.98,3003.17,4.6,3,False
+CUST_0679,Amy Hodges,34.0,Female,bbecker@example.org,London,2024-01-31,,Premium,19.93,4194.3,1.3,2,False
+CUST_0680,John Bender,55.0,Female,vowen@example.net,Paris,2022-12-13,,Basic,171.98,313.94,1.8,5,True
+CUST_0681,Daniel Taylor,24.0,Female,apierce@example.net,Tokyo,2024-10-08,2024-03-10 16:12:05,Basic,47.66,1259.5,2.8,1,False
+CUST_0682,Derek Becker Jr.,63.0,Female,jessecombs@example.org,Sydney,2023-03-16,,Basic,176.14,4459.77,3.3,3,False
+CUST_0683,Felicia Benson,30.0,Male,lrush@example.com,Paris,2023-05-19,2024-03-29 11:13:21,Basic,76.98,144.91,4.3,1,True
+CUST_0684,Michael Williams,57.0,Male,kaylafritz@example.com,London,2022-10-02,2024-03-09 19:53:26,Basic,147.31,1086.86,5.0,3,False
+CUST_0685,Jonathan Scott,59.0,Male,gary38@example.com,London,2022-04-18,2024-09-13 15:55:42,Basic,70.65,4799.22,2.6,4,False
+CUST_0686,Vincent Smith,26.0,Male,catherinecunningham@example.org,Tokyo,2024-07-31,,Basic,182.12,3105.67,1.2,7,False
+CUST_0687,Alejandra Davis,67.0,Female,richard59@example.net,London,2023-04-02,2024-07-06 10:21:52,Basic,34.06,1382.19,4.2,5,False
+CUST_0688,Alexandra Johnson,,Male,kiddashley@example.net,New York,2024-04-08,2024-10-23 04:16:43,Basic,43.92,428.26,3.4,5,False
+CUST_0689,Duane Dixon,19.0,Other,qriddle@example.net,Sydney,2024-11-16,2024-02-18 10:39:26,Basic,103.68,238.14,1.8,1,False
+CUST_0690,Allison Lyons,22.0,Male,russellelliott@example.net,Paris,2023-11-25,,Basic,25.57,1299.25,3.0,8,False
+CUST_0691,Jeremiah Montgomery,46.0,Male,ianderson@example.com,Sydney,2022-06-15,2024-02-23 11:51:10,Premium,47.24,4419.28,4.0,4,False
+CUST_0692,David Shepherd,54.0,Female,,Tokyo,2024-02-07,2024-12-09 09:00:17,Enterprise,189.32,2137.98,4.1,10,False
+CUST_0693,Jaime Lang MD,55.0,Female,archerdonna@example.org,Paris,2023-12-08,2024-03-21 10:49:15,Enterprise,195.53,3629.63,3.0,5,False
+CUST_0694,Sandra Hampton,36.0,Female,,Paris,2022-08-30,2024-04-14 10:02:58,Premium,81.49,4599.6,2.2,2,False
+CUST_0695,Joanna Diaz,25.0,Female,valeriejohnson@example.net,New York,2024-11-12,,Premium,185.42,2099.4,4.9,1,False
+CUST_0696,Joshua Kemp,65.0,Female,,Tokyo,2024-07-10,,Premium,113.52,1037.26,3.7,9,True
+CUST_0697,Tanya Walton,62.0,Male,krista79@example.net,London,2023-09-04,2024-07-21 01:18:28,Basic,61.25,2633.88,2.6,2,False
+CUST_0698,Charles Nunez,18.0,Other,omendez@example.net,New York,2023-08-20,2024-03-27 21:03:43,Premium,143.46,4549.61,2.1,6,False
+CUST_0699,Steven Roberts,39.0,Other,johnwest@example.org,New York,2023-10-04,2024-09-23 03:39:13,Basic,135.19,4041.43,3.9,1,True
+CUST_0700,Renee Hartman,69.0,Female,daviszachary@example.org,Sydney,2023-04-18,2024-10-01 10:40:34,Basic,197.93,422.57,2.0,1,True
+CUST_0701,Jason French,34.0,Male,burkejoseph@example.org,Sydney,2024-05-03,,Premium,60.36,3493.61,1.7,9,False
+CUST_0702,Ronald Moore,24.0,Female,petersraven@example.net,Sydney,2023-06-06,2025-01-08 02:52:32,Basic,137.69,2902.3,3.1,4,True
+CUST_0703,James Gamble,42.0,Male,gjohnson@example.com,New York,2023-01-09,2024-06-11 04:00:28,Basic,19.88,4546.57,2.2,9,True
+CUST_0704,Cody Miller,62.0,Male,vlopez@example.org,London,2023-12-31,2024-11-25 05:46:23,Enterprise,31.59,700.16,3.5,5,False
+CUST_0705,Melanie Hall MD,21.0,Male,justin16@example.com,Paris,2024-01-09,2024-07-24 10:33:48,Basic,10.74,2716.78,1.5,7,True
+CUST_0706,Ashley Rodriguez,53.0,Female,,Sydney,2023-11-11,2024-10-04 23:39:07,Basic,199.9,4409.37,3.6,1,False
+CUST_0707,Mark Edwards,23.0,Female,,London,2024-06-23,2024-08-31 11:53:58,Enterprise,162.43,2109.12,2.1,6,False
+CUST_0708,Julia Blake,48.0,Female,thomasking@example.net,Tokyo,2024-01-30,2024-03-17 10:10:01,Premium,159.48,2461.78,1.0,8,False
+CUST_0709,Steven Cruz,,Female,jacksonjohn@example.com,Sydney,2024-02-13,2024-10-15 01:51:58,Basic,106.85,445.26,1.5,1,False
+CUST_0710,Amber Morgan,61.0,Male,christina48@example.org,Paris,2023-12-30,2025-01-18 18:27:56,Basic,67.01,1462.9,4.7,9,False
+CUST_0711,Joseph Cook,56.0,Male,sherry79@example.com,Tokyo,2025-01-07,2025-01-15 05:24:20,Basic,38.74,1690.08,4.5,3,False
+CUST_0712,Michael Newton,44.0,Male,rlozano@example.net,Tokyo,2025-01-12,,Premium,64.09,4731.1,1.9,1,False
+CUST_0713,Stephen Hughes,27.0,Other,tiffanyhardy@example.net,Paris,2024-05-03,2024-12-21 15:19:48,Basic,81.43,1485.07,4.1,1,False
+CUST_0714,Brent Boyd,43.0,Male,,Sydney,2023-06-30,2024-12-04 17:35:09,Basic,153.7,2358.26,3.4,6,False
+CUST_0715,Matthew Holden,36.0,Female,karenlove@example.net,New York,2024-04-15,2024-05-13 14:12:51,Basic,112.54,3389.39,4.9,6,False
+CUST_0716,Harold Steele,56.0,Female,qtownsend@example.org,Paris,2023-12-08,2024-10-03 12:17:43,Basic,24.72,894.7,2.5,1,False
+CUST_0717,Steven Larsen,20.0,Male,jessemunoz@example.net,Paris,2024-10-25,2024-11-26 11:27:57,Enterprise,13.43,2483.57,3.7,3,False
+CUST_0718,Cynthia Andrews,62.0,Female,castrorobert@example.com,Paris,2024-11-21,,Basic,29.44,3718.84,1.3,7,False
+CUST_0719,Alexander Rivera,30.0,Female,mriggs@example.net,Tokyo,2023-02-04,2024-02-19 00:51:59,Premium,87.99,4347.59,2.6,10,False
+CUST_0720,Tammy Luna,67.0,Female,priscilla40@example.net,London,2023-02-03,2024-07-04 07:30:32,Basic,187.31,3168.67,4.9,3,False
+CUST_0721,Jonathan Oneill,45.0,Other,carolrodriguez@example.org,New York,2023-09-16,2024-04-03 13:51:28,Premium,131.11,3378.36,3.2,3,False
+CUST_0722,Sarah Hart,37.0,Male,,Sydney,2024-05-27,2024-04-26 02:25:27,Enterprise,162.35,718.79,2.2,3,True
+CUST_0723,Laura Beltran,45.0,Male,lrodriguez@example.org,Sydney,2024-10-24,2024-05-07 23:47:26,Basic,98.61,4734.3,1.5,7,False
+CUST_0724,Brenda Hart,25.0,Female,paul16@example.org,London,2023-07-02,,Basic,78.72,749.61,3.8,4,False
+CUST_0725,Laurie Allen,58.0,Other,,Paris,2024-09-19,,Basic,30.6,3895.9,3.6,4,False
+CUST_0726,Anthony Harrison,56.0,Male,bernardryan@example.org,New York,2024-05-13,2024-12-10 16:48:49,Premium,176.43,1397.6,2.5,3,True
+CUST_0727,Tammy Vaughan,18.0,Female,mjimenez@example.org,Sydney,2023-03-19,2024-11-14 19:37:30,Basic,158.8,4674.61,4.8,10,False
+CUST_0728,Steven King,20.0,Female,sanchezsteven@example.com,Sydney,2023-03-19,2025-01-05 22:22:23,Premium,41.94,3627.8,1.1,9,False
+CUST_0729,Lisa Cooper,30.0,Female,bmoore@example.net,Paris,2022-05-02,,Premium,107.33,3793.69,2.2,2,False
+CUST_0730,James Ruiz,45.0,Male,,London,2024-07-29,2024-12-19 09:34:47,Premium,102.6,,4.7,4,False
+CUST_0731,Tricia Smith,66.0,Female,nortonkimberly@example.com,New York,2024-03-31,2024-04-09 04:05:48,Premium,128.77,2270.9,2.3,8,False
+CUST_0732,Anna Alvarez,42.0,Other,jordanandrew@example.net,London,2023-06-20,2025-01-02 01:56:44,Basic,189.78,3127.28,2.0,6,False
+CUST_0733,Susan Richmond,50.0,Male,heather65@example.com,London,2024-01-01,,Basic,120.16,3872.87,3.1,7,False
+CUST_0734,Jennifer Odonnell,55.0,Male,xpayne@example.net,New York,2022-10-07,,Basic,112.64,609.4,4.3,7,False
+CUST_0735,Monica Hubbard,23.0,Other,kathrynliu@example.net,New York,2023-12-05,2025-01-14 14:52:52,Enterprise,19.56,4815.59,1.4,2,False
+CUST_0736,Stephanie Castillo,61.0,Male,lpage@example.com,Sydney,2023-09-25,2024-03-22 02:10:02,Premium,21.95,4462.08,4.8,4,False
+CUST_0737,Jeffrey Johnson,62.0,Female,dana41@example.com,Sydney,2024-08-18,2025-01-16 09:10:02,Premium,45.6,1424.71,4.2,10,False
+CUST_0738,Zachary Rowland,49.0,Female,kelliott@example.net,New York,2024-12-12,,Basic,16.17,4131.53,1.7,10,True
+CUST_0739,Mariah Curtis,,Male,martinkaren@example.net,Tokyo,2023-03-25,2024-03-03 17:18:25,Basic,151.24,2639.79,3.8,6,False
+CUST_0740,Brittany Phillips,64.0,Female,usuarez@example.com,Sydney,2022-07-18,2024-06-30 04:26:43,Premium,147.43,2362.85,2.5,3,False
+CUST_0741,Mary Rich DDS,38.0,Male,whitemanuel@example.org,Tokyo,2022-12-31,2024-10-30 06:46:50,Basic,35.85,1640.73,2.6,9,False
+CUST_0742,Shannon Perez,33.0,Female,cheryllopez@example.com,New York,2025-01-03,2024-06-07 08:35:10,Basic,168.85,2946.75,4.1,4,False
+CUST_0743,Melissa Gill,38.0,Male,johnsonelizabeth@example.com,Sydney,2022-02-25,2024-06-23 17:38:24,Premium,39.41,3676.46,4.9,10,False
+CUST_0744,Mark Long,28.0,Female,dmarshall@example.com,London,2022-03-26,,Basic,67.22,2113.57,1.5,2,True
+CUST_0745,Kevin Reid,54.0,Male,leedouglas@example.net,New York,2023-09-29,2024-08-29 19:16:49,Basic,57.31,3183.17,2.7,6,False
+CUST_0746,Isaiah Kelley,53.0,Male,kristengreen@example.org,Paris,2023-05-17,2024-10-05 20:26:26,Basic,80.74,3526.63,2.9,1,False
+CUST_0747,Joseph Fuller,52.0,Other,holly25@example.com,Tokyo,2024-08-31,2024-12-22 11:26:21,Basic,58.39,,2.5,6,False
+CUST_0748,Sara Dean,36.0,Male,duncanpaula@example.com,New York,2024-08-21,2024-12-09 22:53:04,Enterprise,102.9,354.63,2.5,10,True
+CUST_0749,Troy Ritter,37.0,Female,erica00@example.net,New York,2024-12-21,2024-10-07 08:36:04,Basic,87.41,4312.76,1.2,1,False
+CUST_0750,Mr. Peter Ramirez,35.0,Male,wpacheco@example.net,Sydney,2023-05-10,,Basic,197.45,2345.44,3.7,8,False
+CUST_0751,Shawn Fritz DDS,64.0,Female,heidi34@example.com,Sydney,2022-04-21,2024-07-29 17:20:54,Basic,20.63,1385.84,2.7,5,False
+CUST_0752,Kirsten Williams,58.0,Male,vblack@example.com,Sydney,2023-06-03,,Premium,37.01,1284.65,1.8,6,False
+CUST_0753,Richard Wong,66.0,Other,roberthernandez@example.org,Paris,2023-11-12,,Basic,20.04,2466.77,4.3,2,False
+CUST_0754,Jacqueline Murphy,31.0,Female,batesmichelle@example.com,Sydney,2022-06-11,2024-04-28 15:22:52,Basic,128.91,4445.47,4.2,2,True
+CUST_0755,Luis Stone,32.0,Male,donna40@example.net,New York,2023-03-31,2024-11-05 04:46:03,Basic,20.36,1953.9,2.9,9,False
+CUST_0756,Daniel Osborne,48.0,Male,douglasjones@example.net,Sydney,2022-06-23,2024-05-23 09:19:50,Basic,168.92,3773.66,2.2,3,False
+CUST_0757,Leslie Wyatt,18.0,Male,angelacraig@example.net,London,2023-05-10,2024-05-18 06:42:32,Basic,107.27,574.41,3.6,6,True
+CUST_0758,Melissa Crawford,20.0,Female,steelesally@example.net,Sydney,2023-08-03,2024-07-19 00:19:06,Premium,110.13,2432.68,2.2,10,False
+CUST_0759,Rachel Smith,33.0,Male,perezeric@example.com,Paris,2022-06-30,2024-10-22 17:47:54,Premium,116.7,4959.26,1.9,5,False
+CUST_0760,Bridget Sherman,40.0,Female,nguyenchristopher@example.org,London,2024-07-25,2024-04-13 22:10:00,Basic,42.45,3875.15,3.9,4,True
+CUST_0761,Jeffrey Ritter,28.0,Male,welliott@example.net,New York,2022-09-02,2024-11-11 05:13:22,Basic,47.56,1131.59,1.2,10,False
+CUST_0762,Lori Pugh,29.0,Male,,New York,2024-05-09,2025-01-25 14:28:30,Enterprise,70.58,2557.06,1.4,2,False
+CUST_0763,Timothy Mccoy,,Female,smithleroy@example.org,Tokyo,2023-04-05,2024-09-07 13:15:36,Basic,122.76,,1.0,8,False
+CUST_0764,Jonathan Swanson,49.0,Female,mary69@example.com,London,2024-04-25,2024-10-08 21:22:06,Premium,49.92,2106.85,1.6,10,False
+CUST_0765,Kimberly Baker,33.0,Male,murraymorgan@example.org,Tokyo,2022-03-14,2024-08-25 21:32:13,Basic,32.1,3922.41,1.3,7,False
+CUST_0766,Charles Phillips,25.0,Male,,London,2024-11-09,2024-10-20 08:31:34,Enterprise,194.32,3879.0,5.0,2,False
+CUST_0767,Nancy Dudley,55.0,Male,xmartinez@example.net,London,2023-04-13,,Premium,14.18,1217.69,2.2,6,True
+CUST_0768,Christina King,,Female,katiehensley@example.com,Paris,2024-02-18,2024-10-08 05:16:20,Enterprise,162.51,4618.89,1.6,8,False
+CUST_0769,Samuel Odonnell,41.0,Female,james49@example.com,Tokyo,2025-01-16,,Premium,159.73,3003.58,2.0,7,False
+CUST_0770,Bobby Drake,45.0,Female,hugheslance@example.net,Paris,2023-04-23,2024-09-04 07:17:08,Basic,66.47,1961.63,4.7,1,False
+CUST_0771,Brittany Dominguez,25.0,Female,carlsonangela@example.net,London,2024-05-20,2024-02-07 08:16:02,Enterprise,35.77,2559.48,3.1,5,False
+CUST_0772,Sherri Lambert DDS,45.0,Female,dale00@example.net,New York,2024-09-14,2024-10-14 01:42:43,Basic,37.67,3064.85,2.5,2,True
+CUST_0773,Alexa Brewer,53.0,Female,burnettlisa@example.com,London,2023-08-20,2024-07-17 03:09:13,Basic,142.51,2843.46,4.5,6,False
+CUST_0774,Brian Jimenez,43.0,Female,millersamuel@example.net,Paris,2023-12-12,2024-07-30 02:03:09,Premium,132.13,2483.38,2.6,7,False
+CUST_0775,Jennifer Gonzalez,25.0,Male,roger21@example.net,Tokyo,2022-11-14,2024-12-12 07:46:04,Premium,158.72,2574.17,2.3,7,False
+CUST_0776,Lisa Green,67.0,Male,jessicagomez@example.com,Tokyo,2024-02-02,2024-05-13 03:34:27,Enterprise,188.12,964.42,1.8,3,False
+CUST_0777,Tracy Garcia,45.0,Male,swilkins@example.org,Paris,2022-04-03,2024-12-12 05:32:34,Basic,141.47,4082.39,2.5,7,False
+CUST_0778,Douglas Torres,45.0,Male,,Tokyo,2024-12-11,,Premium,39.61,2754.63,2.3,5,False
+CUST_0779,Amy Floyd,54.0,Female,usullivan@example.org,Sydney,2022-06-20,,Premium,56.25,742.29,3.7,8,False
+CUST_0780,April Proctor,58.0,Other,alexander81@example.net,New York,2023-01-25,2024-04-06 13:20:08,Basic,170.02,3854.17,2.2,8,False
+CUST_0781,Benjamin Perez,,Male,hjackson@example.net,New York,2024-06-12,2024-08-03 00:47:32,Basic,49.77,4668.98,3.3,7,False
+CUST_0782,Lisa Donovan,44.0,Male,,New York,2023-05-20,2024-05-05 19:59:07,Basic,23.78,4741.8,1.3,6,True
+CUST_0783,Timothy Blackwell,34.0,Female,,Tokyo,2022-03-08,2024-03-26 07:51:25,Basic,143.62,1908.19,1.8,2,True
+CUST_0784,Linda Love,26.0,Other,wobrien@example.com,Tokyo,2024-02-26,,Enterprise,86.48,764.03,2.6,6,False
+CUST_0785,Charles Andrews,,Male,tylerbradford@example.net,London,2022-05-05,,Premium,184.81,2640.16,4.7,9,True
+CUST_0786,Melissa Barber,37.0,Female,,London,2022-07-02,2024-10-25 18:45:52,Premium,133.55,651.79,2.5,2,False
+CUST_0787,Amy Rogers,30.0,Male,goldenjonathan@example.com,New York,2023-11-18,,Enterprise,27.18,4676.54,3.7,1,True
+CUST_0788,Samantha Rivers,45.0,Male,michelewilkins@example.net,Sydney,2022-09-11,2024-09-23 17:14:43,Basic,190.09,999.54,2.0,5,True
+CUST_0789,Billy Wilson,65.0,Other,conleyandrea@example.org,London,2022-03-06,2024-07-25 11:41:11,Premium,59.13,1338.55,1.5,6,False
+CUST_0790,Madison Martinez,46.0,Other,martinezmelanie@example.net,London,2023-02-16,2024-01-31 18:34:45,Basic,74.07,2092.52,1.2,3,False
+CUST_0791,John Williamson,30.0,Male,karen92@example.net,Tokyo,2024-06-08,,Premium,86.43,1977.51,2.2,8,False
+CUST_0792,Alfred Gonzalez,63.0,Other,jennifersmith@example.net,Sydney,2024-07-10,,Basic,19.73,3993.85,1.6,7,False
+CUST_0793,Carla Mason,52.0,Female,vgreene@example.com,New York,2024-07-23,,Enterprise,104.34,2335.95,1.7,2,False
+CUST_0794,Andrew Mendoza,23.0,Female,christopher82@example.com,London,2024-10-31,2024-02-26 02:22:41,Basic,33.43,936.76,4.0,7,True
+CUST_0795,Robert Hernandez,35.0,Female,stephaniegrant@example.com,Sydney,2022-09-21,2024-08-18 23:25:23,Basic,86.18,1409.33,1.1,1,False
+CUST_0796,Anna Oliver,68.0,Female,ostanley@example.org,Sydney,2022-03-17,2024-08-04 19:42:11,Premium,76.63,2594.66,3.2,9,False
+CUST_0797,Julie Kennedy,22.0,Female,christopherhumphrey@example.net,New York,2023-04-05,2025-01-20 19:53:40,Basic,156.84,822.52,2.5,7,False
+CUST_0798,Jasmine Williams,64.0,Female,kimberlyjordan@example.net,Sydney,2023-03-15,2024-08-26 03:04:56,Premium,162.6,3097.11,3.0,6,False
+CUST_0799,Eric Reyes,42.0,Male,robert75@example.com,Sydney,2023-05-09,,Basic,39.15,2872.16,3.3,2,False
+CUST_0800,Sarah Pierce,19.0,Male,evelyn46@example.org,Sydney,2024-05-19,2024-10-27 17:42:57,Premium,79.64,3602.04,2.3,3,True
+CUST_0801,Cynthia Hall,27.0,Male,monicapalmer@example.org,London,2022-12-14,2024-05-12 17:25:54,Basic,80.94,4694.75,2.2,1,True
+CUST_0802,Nicholas Chapman,,Female,lrodriguez@example.org,New York,2022-07-20,2024-07-06 19:11:18,Basic,38.77,4570.05,3.9,10,False
+CUST_0803,Stacey White,67.0,Male,rebeccadonovan@example.com,Sydney,2022-02-21,2024-07-25 11:21:22,Basic,161.71,4735.77,4.5,5,False
+CUST_0804,Megan Walker,,Female,james50@example.com,Sydney,2024-07-12,2024-05-28 13:36:06,Basic,144.37,1299.11,1.8,9,True
+CUST_0805,Spencer Smith,,Other,vargastheresa@example.net,London,2024-02-28,2024-09-19 19:00:12,Basic,46.17,,1.4,6,False
+CUST_0806,Jay Donaldson,50.0,Male,hammondkaren@example.com,New York,2023-07-25,2024-12-12 19:48:04,Basic,79.68,1581.16,4.6,5,True
+CUST_0807,Jonathan Castro,18.0,Female,gallegoskeith@example.com,Tokyo,2024-07-24,2024-04-14 08:13:22,Basic,30.1,4485.92,2.4,3,False
+CUST_0808,Julie Hood,,Male,jsmith@example.net,London,2022-04-22,2024-10-21 05:10:09,Basic,129.36,4863.06,3.2,5,False
+CUST_0809,Lisa Garcia,49.0,Female,xadams@example.org,New York,2024-02-11,2024-07-24 15:17:10,Basic,33.06,4310.69,2.4,8,False
+CUST_0810,Philip Huber,64.0,Male,mitchellelizabeth@example.org,Sydney,2023-11-24,2024-04-07 23:58:37,Premium,197.33,639.09,1.5,2,False
+CUST_0811,Michelle Smith,66.0,Female,teresahamilton@example.net,New York,2022-10-07,2024-08-17 16:41:15,Basic,158.33,4742.4,3.4,5,False
+CUST_0812,Kenneth Bates,28.0,Female,phillipsdaniel@example.net,New York,2024-09-03,,Basic,84.15,,3.1,6,False
+CUST_0813,Bobby Carter,38.0,Other,,New York,2023-10-21,2024-03-18 21:01:25,Premium,119.93,145.62,1.8,10,True
+CUST_0814,Robert Shields,43.0,Female,kaylatyler@example.org,Tokyo,2022-05-27,2025-01-12 00:16:47,Basic,183.15,2267.73,2.8,8,False
+CUST_0815,Sabrina Thomas,42.0,Female,whitneyregina@example.com,New York,2024-12-06,2024-10-22 13:33:54,Premium,115.28,,4.2,8,True
+CUST_0816,Mackenzie Kelly,39.0,Female,mcastro@example.net,Tokyo,2022-06-29,2024-05-26 19:03:46,Basic,43.15,2765.0,3.4,5,False
+CUST_0817,Johnny Pierce,,Female,shanebailey@example.org,Sydney,2022-07-31,,Basic,81.95,1758.91,1.4,9,False
+CUST_0818,Corey Nguyen,66.0,Female,luceroandrew@example.org,Tokyo,2022-06-20,2024-02-19 01:31:48,Basic,170.2,2419.83,3.2,4,False
+CUST_0819,Steven Bryant,30.0,Male,flynncheryl@example.net,Sydney,2024-03-25,,Premium,132.4,3104.53,3.8,9,False
+CUST_0820,Steven Velez,50.0,Other,lauraterry@example.net,Sydney,2023-09-22,2024-04-13 02:06:22,Premium,133.64,4357.13,4.2,7,True
+CUST_0821,Denise Foster,51.0,Female,floresjason@example.org,Tokyo,2023-08-14,2024-02-08 00:18:14,Basic,174.7,3343.32,3.5,6,False
+CUST_0822,Shelby Thompson,58.0,Female,erin41@example.net,London,2022-05-08,2024-12-14 13:03:56,Basic,179.85,2226.84,1.6,4,False
+CUST_0823,Matthew Dunn,52.0,Male,abigail69@example.com,Paris,2023-01-29,2024-10-31 01:30:10,Enterprise,184.76,4115.2,3.8,2,False
+CUST_0824,John Mckay,18.0,Female,victoria09@example.org,New York,2024-05-20,2024-04-03 10:43:15,Basic,28.02,4537.35,3.7,8,True
+CUST_0825,Kevin Hayes,,Male,rcox@example.com,Paris,2024-10-31,2024-05-07 11:15:00,Basic,113.38,,1.1,6,False
+CUST_0826,Amy Rosario,,Female,georgesimmons@example.org,New York,2024-02-29,2024-12-10 16:27:09,Enterprise,150.7,2706.47,2.6,3,False
+CUST_0827,William Graham,,Male,irobertson@example.net,New York,2022-02-23,2024-09-10 23:22:31,Premium,153.82,1494.11,2.3,7,False
+CUST_0828,Elizabeth Lawrence,45.0,Female,skinnerhenry@example.com,Sydney,2024-11-14,2024-04-05 02:42:43,Basic,125.28,330.6,3.7,10,False
+CUST_0829,Jessica Adkins,,Other,ibarrabarbara@example.com,New York,2023-05-12,2024-02-20 05:02:42,Premium,41.69,3375.88,1.9,7,False
+CUST_0830,April Huang,22.0,Male,ptaylor@example.net,New York,2023-03-25,,Premium,161.51,4327.58,3.4,6,True
+CUST_0831,Sean Sparks,48.0,Other,smithjames@example.com,Tokyo,2022-10-08,2024-04-02 19:29:34,Basic,146.82,898.22,4.7,2,True
+CUST_0832,Gary Mcintyre PhD,,Male,,Paris,2024-09-30,2024-09-06 01:36:41,Basic,26.37,4080.83,4.2,8,False
+CUST_0833,Mary Lane,55.0,Female,katherine45@example.org,Tokyo,2023-12-18,2024-12-28 20:18:05,Basic,98.12,4281.64,4.7,1,True
+CUST_0834,Earl Adams,20.0,Female,dblevins@example.net,New York,2023-08-06,,Enterprise,43.06,4580.27,4.9,1,False
+CUST_0835,Melissa Mitchell,40.0,Female,kingsherry@example.com,Sydney,2024-05-21,2024-12-30 11:35:27,Premium,74.12,1399.9,1.0,6,False
+CUST_0836,Amy Price,54.0,Female,qjohnson@example.com,Tokyo,2024-12-04,2024-04-17 08:48:18,Basic,13.44,4529.37,3.5,5,False
+CUST_0837,Kyle Cummings,54.0,Female,markstephens@example.org,Tokyo,2024-05-21,,Premium,86.06,1671.25,2.7,9,True
+CUST_0838,Philip Salinas,27.0,Male,dustin03@example.org,London,2022-06-22,2024-05-30 02:09:10,Basic,114.48,2806.46,4.4,7,False
+CUST_0839,Jose Taylor,27.0,Male,derek00@example.net,New York,2023-11-01,2024-04-11 07:47:19,Basic,127.72,347.49,2.0,2,True
+CUST_0840,Louis Mckinney,36.0,Female,brownsharon@example.com,Sydney,2024-06-28,2024-06-09 10:41:39,Basic,136.06,315.02,4.9,7,False
+CUST_0841,Samantha Evans,,Female,timothy16@example.com,Tokyo,2024-11-09,2024-12-18 05:45:48,Basic,168.9,3629.83,3.5,3,False
+CUST_0842,Bryan Stanton,38.0,Female,angela87@example.org,Tokyo,2022-08-13,2024-11-17 14:04:28,Premium,50.94,2277.95,4.2,1,False
+CUST_0843,Sara Stephens,31.0,Female,gharrison@example.org,Sydney,2023-05-04,,Basic,32.89,1355.83,1.3,8,False
+CUST_0844,Debra Wilkins,,Male,willisclifford@example.com,New York,2022-09-02,2024-09-01 14:17:44,Premium,171.79,1033.03,1.7,3,True
+CUST_0845,Frederick Freeman,63.0,Female,joshua35@example.com,London,2022-08-08,2024-10-15 17:46:36,Basic,39.76,3382.77,4.0,8,False
+CUST_0846,Tammy Vazquez,18.0,Male,littlesteve@example.org,Tokyo,2024-04-06,2024-09-26 16:17:42,Basic,195.2,101.97,1.1,7,True
+CUST_0847,Brandi Smith,68.0,Female,qbrown@example.net,London,2022-07-19,2024-03-23 04:51:05,Enterprise,170.08,4048.87,4.3,2,True
+CUST_0848,Timothy Jenkins,62.0,Male,parkercrystal@example.org,Paris,2023-03-03,2024-04-02 07:57:18,Basic,105.17,488.32,1.1,1,False
+CUST_0849,Emily Carlson,30.0,Male,lisakim@example.net,New York,2023-10-14,2024-10-22 19:55:57,Basic,196.47,1038.3,3.6,7,False
+CUST_0850,Brenda Nash,21.0,Male,richardwilliams@example.com,Paris,2023-09-05,,Basic,28.5,1992.56,2.5,1,False
+CUST_0851,Laura Middleton,18.0,Male,richardcalderon@example.net,Paris,2022-03-19,2024-05-02 16:41:22,Premium,67.58,2475.81,3.4,6,False
+CUST_0852,Karen Caldwell,66.0,Female,bradysarah@example.com,Paris,2023-10-16,2024-08-26 21:14:52,Basic,131.26,1839.48,3.8,10,False
+CUST_0853,Kristin Howe,57.0,Male,amberwalters@example.net,New York,2022-12-19,2025-01-01 22:17:15,Basic,76.5,1671.49,2.4,10,False
+CUST_0854,Kristen Smith,49.0,Male,limadeline@example.org,New York,2022-11-11,2024-08-15 11:04:00,Basic,186.39,4823.19,1.4,8,False
+CUST_0855,Melissa Jackson,51.0,Male,ethanbell@example.com,Sydney,2024-07-14,,Basic,22.47,3243.74,1.3,7,True
+CUST_0856,Michael Hernandez,,Male,lindsay75@example.com,London,2023-12-14,2024-10-24 19:13:43,Premium,114.39,214.82,3.4,4,False
+CUST_0857,Michael Collins,,Male,willischad@example.com,London,2024-03-19,2025-01-04 22:58:51,Basic,122.26,2207.86,3.1,1,True
+CUST_0858,Tiffany Perez,25.0,Male,rbailey@example.com,Sydney,2023-12-31,2024-12-06 04:47:37,Basic,134.02,4387.54,4.0,1,False
+CUST_0859,Sarah Hunt,,Female,ocole@example.org,Sydney,2023-08-21,2024-09-19 15:33:14,Basic,58.58,1577.14,3.0,4,False
+CUST_0860,Tina Meyer,43.0,Female,williamjohnson@example.org,Paris,2024-03-09,2024-09-27 17:34:37,Basic,79.27,563.33,2.7,5,False
+CUST_0861,Sarah Cruz,,Female,edwardsdorothy@example.net,Sydney,2022-10-13,,Enterprise,170.3,3816.09,2.6,7,False
+CUST_0862,Angel Gonzalez,20.0,Female,jasoncosta@example.com,Tokyo,2023-03-12,2024-10-14 01:37:38,Basic,47.04,3069.47,1.1,4,True
+CUST_0863,Ruth Morales,67.0,Male,pacehannah@example.net,London,2023-05-30,,Enterprise,167.1,2894.53,2.3,10,False
+CUST_0864,Richard Smith,29.0,Female,vgreene@example.com,Sydney,2024-04-14,2024-08-22 19:04:45,Basic,116.9,362.53,4.9,1,False
+CUST_0865,Jimmy Garcia,18.0,Female,qreyes@example.org,Tokyo,2023-07-05,2024-04-12 09:43:31,Basic,154.82,788.45,4.5,10,False
+CUST_0866,Jordan Simpson,61.0,Female,ocasey@example.org,Tokyo,2023-12-05,,Premium,145.59,3150.49,2.3,7,False
+CUST_0867,Ms. Laura Stone,,Male,jonesdonald@example.org,Tokyo,2022-04-26,2024-12-11 04:08:26,Basic,49.43,1118.34,3.4,2,False
+CUST_0868,Jennifer Harris,47.0,Male,dalebutler@example.com,Tokyo,2024-10-05,2024-03-01 20:27:54,Premium,118.07,2569.94,4.4,2,False
+CUST_0869,Jane Heath MD,47.0,Male,brandyevans@example.com,Paris,2022-09-11,2024-06-26 06:32:49,Enterprise,174.87,2769.92,2.8,8,False
+CUST_0870,Cristina Valdez,34.0,Male,colejennifer@example.net,Tokyo,2024-09-27,2024-12-06 04:47:00,Basic,92.1,1489.19,1.1,10,True
+CUST_0871,Shannon Nolan,65.0,Female,gileselizabeth@example.org,Paris,2024-03-20,2025-01-19 16:08:52,Basic,193.65,4747.28,1.3,10,True
+CUST_0872,Renee Nguyen,64.0,Female,kaitlynrodriguez@example.com,Paris,2024-04-27,2024-09-04 19:47:40,Premium,95.92,,3.0,10,False
+CUST_0873,Matthew Rosales,40.0,Female,matthew01@example.net,Tokyo,2022-10-05,2024-05-02 11:57:08,Basic,37.13,3639.63,4.9,5,True
+CUST_0874,Matthew Cooper,32.0,Female,markcohen@example.com,London,2022-10-23,,Basic,83.99,482.17,3.8,10,False
+CUST_0875,Marc Blankenship,,Female,,Tokyo,2024-05-11,2025-01-22 07:20:32,Basic,190.82,620.04,1.3,2,False
+CUST_0876,Elizabeth Kelly,38.0,Female,sperez@example.net,Tokyo,2023-08-15,2024-03-21 08:59:19,Basic,70.75,2514.63,1.8,5,False
+CUST_0877,William Austin Jr.,31.0,Other,rmcclain@example.org,Tokyo,2024-10-09,2024-07-24 19:53:47,Premium,174.94,887.5,4.1,8,False
+CUST_0878,Krystal Calderon,,Male,cummingsjesse@example.net,London,2022-02-24,2024-03-06 16:11:52,Basic,177.44,4893.5,4.4,6,True
+CUST_0879,Lisa Lopez,28.0,Male,greerjoseph@example.net,New York,2022-07-25,,Basic,76.54,876.75,3.5,3,False
+CUST_0880,Derek Lee,68.0,Male,jasminekim@example.org,New York,2022-07-15,,Premium,25.82,2488.59,3.6,8,False
+CUST_0881,Brenda Williams,56.0,Female,,Paris,2022-10-23,2024-04-01 17:07:51,Basic,147.67,1884.19,1.1,9,False
+CUST_0882,Gabriel Johnson,55.0,Female,james97@example.net,Paris,2022-04-21,2024-08-30 19:18:15,Basic,69.19,3232.99,4.3,5,True
+CUST_0883,Dawn Bartlett,51.0,Male,michael77@example.org,London,2024-12-31,,Premium,158.76,,4.2,2,False
+CUST_0884,Kevin Williams,55.0,Other,jayschneider@example.org,Sydney,2022-09-04,2024-09-18 13:20:36,Basic,94.1,2208.55,2.0,2,True
+CUST_0885,Karen Payne,67.0,Male,yfranklin@example.org,New York,2022-12-27,2024-09-30 09:36:01,Premium,102.2,1446.05,3.8,7,False
+CUST_0886,Jamie Acevedo,,Other,drojas@example.net,Paris,2022-09-30,2024-09-06 07:55:45,Premium,157.8,4449.98,1.9,1,True
+CUST_0887,Theresa Burns,35.0,Male,kimberly47@example.org,New York,2022-04-21,2025-01-20 05:35:33,Basic,82.65,298.87,1.2,10,False
+CUST_0888,Richard Powell,47.0,Male,stephen97@example.net,London,2023-07-18,,Basic,94.19,4577.26,1.8,2,False
+CUST_0889,Jesse Fischer,32.0,Female,joshuawalters@example.com,London,2023-11-24,2024-06-24 05:38:28,Basic,81.48,4181.67,1.7,10,True
+CUST_0890,Nathan Huff,44.0,Male,jaclynellis@example.net,Sydney,2023-12-09,2025-01-24 19:31:18,Basic,79.79,1558.1,2.4,4,True
+CUST_0891,Christopher Romero,68.0,Male,dustin79@example.net,Sydney,2023-02-27,2024-11-25 14:40:50,Premium,109.93,3967.52,2.7,1,False
+CUST_0892,Jennifer Garcia,51.0,Male,aperry@example.net,London,2024-08-10,2024-09-01 11:37:25,Premium,163.67,252.95,3.0,4,True
+CUST_0893,Nicholas Valentine,69.0,Female,,Paris,2024-03-08,2024-07-20 10:20:47,Basic,78.74,4837.64,2.9,10,False
+CUST_0894,Mark Phillips,55.0,Female,ystevens@example.net,New York,2023-07-22,2024-06-08 11:35:52,Premium,109.61,2680.32,2.1,5,False
+CUST_0895,Suzanne Moore,50.0,Male,kayleemcintosh@example.net,Tokyo,2024-09-01,,Enterprise,137.44,1586.08,1.1,9,False
+CUST_0896,Michael Sanchez,41.0,Female,thunter@example.com,Sydney,2022-10-23,2024-09-15 06:15:49,Enterprise,61.19,1876.66,3.4,1,False
+CUST_0897,Lori Oneill,32.0,Female,valenciaamy@example.net,Tokyo,2024-07-26,2024-04-21 18:24:03,Basic,62.73,425.39,2.6,5,True
+CUST_0898,Jessica Wilson,47.0,Male,,Paris,2023-08-30,,Basic,187.35,4947.81,2.2,2,False
+CUST_0899,Wesley Reid,59.0,Male,stantonkirsten@example.com,Sydney,2022-12-22,2024-08-27 10:37:51,Basic,147.47,292.53,4.5,9,True
+CUST_0900,Karen Andersen,68.0,Male,mendezjames@example.com,Tokyo,2022-09-21,,Enterprise,119.67,3309.04,4.0,6,False
+CUST_0901,Bailey Eaton,34.0,Male,larsonmichael@example.com,Paris,2024-09-03,2024-06-30 15:02:03,Basic,133.07,2269.41,4.4,2,False
+CUST_0902,Alexandra Whitehead,22.0,Female,peter51@example.org,New York,2023-06-24,2025-01-09 07:31:12,Basic,15.57,4749.69,3.0,3,False
+CUST_0903,Derrick Miller,46.0,Male,sherri48@example.net,Paris,2022-01-31,2024-03-21 04:29:25,Basic,127.44,1305.4,1.5,8,True
+CUST_0904,John Rasmussen,21.0,Female,sjackson@example.net,Sydney,2024-10-04,2024-07-04 17:06:45,Basic,106.81,2707.23,3.8,1,False
+CUST_0905,David Armstrong,27.0,Female,lyoung@example.net,London,2022-07-17,2024-07-27 23:46:42,Basic,113.69,2463.55,1.8,3,False
+CUST_0906,Christine Knapp,34.0,Male,simsmichael@example.org,New York,2024-07-30,2024-08-08 03:43:59,Enterprise,78.29,3544.05,2.8,10,False
+CUST_0907,Matthew Rangel,27.0,Female,robert12@example.org,Tokyo,2025-01-16,2024-04-19 15:27:01,Basic,25.48,433.25,1.3,1,False
+CUST_0908,Sydney Brown,34.0,Male,shelby00@example.org,Sydney,2023-06-06,2024-02-22 13:59:19,Basic,46.73,1049.57,4.3,8,False
+CUST_0909,Aaron Jones,,Other,,London,2023-11-10,,Basic,190.64,1151.37,1.5,1,True
+CUST_0910,Eric Jackson,41.0,Female,williamsclaudia@example.com,Paris,2022-10-19,2024-06-01 10:36:40,Basic,87.65,3716.94,4.6,5,False
+CUST_0911,Mrs. Pamela Robertson PhD,22.0,Female,,London,2024-04-11,,Basic,98.67,1026.78,4.5,4,False
+CUST_0912,Christopher Friedman,51.0,Female,vanessaschmidt@example.com,Sydney,2022-10-16,2024-09-15 08:40:40,Basic,20.01,2910.11,2.9,7,False
+CUST_0913,Justin Russell,23.0,Male,joy37@example.org,Sydney,2023-12-02,2024-08-29 11:26:14,Basic,17.14,1154.69,4.0,5,False
+CUST_0914,Morgan Austin,19.0,Female,,London,2023-01-12,,Basic,146.26,4321.96,3.5,8,True
+CUST_0915,Robin Ward,30.0,Other,wallerspencer@example.org,Paris,2023-11-04,2024-03-08 02:19:38,Basic,112.24,4716.71,4.2,1,False
+CUST_0916,Howard Moore,60.0,Female,jasonmiller@example.org,London,2022-08-21,2025-01-05 22:57:14,Basic,106.65,2640.62,2.7,5,False
+CUST_0917,Dr. Sean Coleman PhD,60.0,Female,emmaburns@example.net,Sydney,2023-12-02,2024-02-16 00:31:49,Enterprise,56.19,1826.31,4.1,4,True
+CUST_0918,Lisa Parsons,65.0,Female,bennettsarah@example.org,Sydney,2024-09-13,,Enterprise,151.5,1246.88,2.8,3,False
+CUST_0919,John Young,28.0,Male,,Tokyo,2022-12-21,2024-09-03 02:41:29,Basic,41.96,343.93,4.8,5,False
+CUST_0920,Erika Bautista,68.0,Male,wvazquez@example.com,Tokyo,2022-05-18,2024-09-30 00:57:29,Basic,46.09,1415.65,2.9,10,False
+CUST_0921,Julie Johnson,64.0,Female,chapmanlauren@example.com,New York,2023-06-08,2024-05-02 03:27:42,Enterprise,97.54,3305.76,2.9,3,False
+CUST_0922,Jeff Schmitt,40.0,Male,agarcia@example.com,Sydney,2024-04-25,2024-11-10 13:25:31,Basic,64.39,2714.72,4.1,8,False
+CUST_0923,Kimberly Soto,33.0,Female,,Tokyo,2024-10-02,2024-12-28 01:40:10,Premium,57.02,,4.3,3,True
+CUST_0924,Matthew Murphy,48.0,Other,ashleegarrett@example.com,London,2025-01-02,,Enterprise,132.6,2041.76,3.2,1,False
+CUST_0925,Frank Bautista,28.0,Male,james55@example.org,Paris,2023-07-03,2024-02-10 04:32:45,Basic,133.68,3499.93,1.7,9,False
+CUST_0926,Keith Stevenson,33.0,Male,oball@example.net,London,2024-01-09,2024-11-23 06:26:57,Basic,166.66,2497.68,2.9,9,False
+CUST_0927,Chad Turner,25.0,Female,,Paris,2022-02-25,2024-05-06 10:50:34,Enterprise,89.36,2611.62,4.9,6,False
+CUST_0928,Theresa Roberts,21.0,Male,,Tokyo,2024-02-15,2024-11-29 12:29:18,Basic,23.89,1412.09,4.0,10,False
+CUST_0929,Kathryn Peterson,57.0,Female,michellenguyen@example.com,New York,2023-05-03,2024-05-01 11:20:49,Basic,62.0,2329.26,4.2,1,True
+CUST_0930,Jared Long,21.0,Male,gtorres@example.org,London,2024-05-17,2024-06-25 16:08:30,Basic,196.2,2406.85,1.1,8,True
+CUST_0931,Kathleen Mclean,42.0,Female,steven93@example.net,London,2022-05-23,2024-02-23 13:04:52,Basic,123.29,3562.55,2.9,2,False
+CUST_0932,Vincent Mercado,,Male,michael20@example.net,London,2023-05-18,2024-12-16 07:55:27,Premium,144.85,4709.14,3.6,9,False
+CUST_0933,Hannah Simon,49.0,Female,james92@example.net,Paris,2024-01-22,2024-07-26 16:07:46,Premium,11.4,1713.67,4.3,8,False
+CUST_0934,Cassidy Wright,20.0,Female,davidallen@example.net,Tokyo,2022-12-10,2024-03-18 07:46:41,Enterprise,108.46,,1.2,3,False
+CUST_0935,Randy Martin,,Female,antoniofloyd@example.com,London,2024-01-18,2024-03-22 08:45:10,Basic,17.13,2531.85,4.4,5,False
+CUST_0936,Pamela Nguyen,46.0,Male,williamsjason@example.net,London,2024-06-28,2024-04-12 12:27:09,Basic,118.15,2767.86,3.2,9,False
+CUST_0937,Stephanie Garcia,49.0,Female,swallace@example.com,New York,2022-03-06,2024-07-20 11:13:35,Basic,184.95,925.36,1.8,1,False
+CUST_0938,Jeremy Cross,67.0,Female,keith55@example.net,New York,2023-11-16,2024-10-20 15:49:49,Basic,194.0,,2.3,9,False
+CUST_0939,Nancy Moses,68.0,Male,mcmillanbrad@example.com,Tokyo,2023-04-22,2025-01-19 00:56:22,Basic,112.71,4926.15,2.1,4,False
+CUST_0940,Tracy Martin,36.0,Male,powersshelley@example.org,Tokyo,2022-07-12,2024-12-01 05:44:04,Enterprise,97.06,4734.3,3.1,4,False
+CUST_0941,Isaac Melendez,38.0,Male,nicole32@example.net,Sydney,2023-10-15,2024-12-25 07:07:51,Premium,189.55,1065.82,1.2,4,True
+CUST_0942,Mary Copeland,22.0,Female,rbennett@example.org,New York,2025-01-21,,Basic,137.99,4389.28,1.6,10,False
+CUST_0943,Monica Fields,35.0,Female,susanmiller@example.org,Sydney,2022-12-20,,Premium,22.33,3552.02,4.3,9,False
+CUST_0944,Brian Chambers,45.0,Female,tsanders@example.com,Paris,2023-07-26,2024-10-08 09:25:14,Basic,98.49,2323.85,1.5,6,True
+CUST_0945,Michael Campbell,59.0,Male,yunicholas@example.com,Sydney,2022-02-20,2024-02-24 10:35:58,Basic,55.65,2748.99,1.9,8,True
+CUST_0946,Ian Smith,39.0,Male,zbuchanan@example.org,London,2024-03-02,2024-02-05 18:57:02,Premium,99.26,,2.8,4,True
+CUST_0947,Daniel Gray,38.0,Female,leonstephen@example.org,Sydney,2023-12-22,2024-08-01 09:19:27,Basic,96.54,2452.66,3.1,3,False
+CUST_0948,Catherine Murray,23.0,Female,willisseth@example.net,Tokyo,2023-10-14,2024-10-12 23:52:29,Enterprise,120.61,1928.72,4.1,1,True
+CUST_0949,Patrick Chase,18.0,Other,ztodd@example.com,Paris,2022-05-07,,Premium,77.79,2516.91,2.8,10,True
+CUST_0950,Jordan Schneider,22.0,Male,hickmanchristopher@example.com,London,2024-03-22,2024-08-13 02:39:00,Basic,41.21,2937.74,4.2,7,False
+CUST_0951,James Wall,58.0,Female,,Sydney,2025-01-23,,Premium,105.71,1026.48,3.5,4,False
+CUST_0952,Phyllis Schroeder,29.0,Male,fowlershawn@example.org,Paris,2024-12-20,,Basic,167.74,4514.45,1.5,8,True
+CUST_0953,Andrew Gutierrez,43.0,Male,williammoore@example.net,Paris,2023-06-21,2024-12-07 10:24:12,Basic,136.16,3403.52,1.6,3,False
+CUST_0954,Sarah Nelson,63.0,Female,mwilliams@example.org,London,2022-09-21,2024-11-08 13:14:22,Basic,74.29,3203.02,2.7,1,False
+CUST_0955,Tyler Anderson,51.0,Female,ruizveronica@example.com,Sydney,2023-05-27,,Basic,187.75,587.53,2.6,5,False
+CUST_0956,Mr. Robert Lucero MD,66.0,Other,zachary94@example.com,Paris,2024-06-19,2024-07-08 12:20:48,Premium,183.32,3060.45,4.0,2,False
+CUST_0957,Sarah Mcmillan,31.0,Male,paula92@example.net,Paris,2024-09-06,2024-02-17 08:22:37,Basic,49.78,692.71,3.3,3,True
+CUST_0958,Jacob Wilson,43.0,Male,usalas@example.net,New York,2022-02-11,2024-03-26 05:17:19,Premium,17.49,485.62,2.6,6,False
+CUST_0959,Janice Stewart,62.0,Female,ruizbenjamin@example.org,Paris,2023-04-03,2024-08-09 04:26:43,Basic,150.85,2683.82,1.7,3,False
+CUST_0960,John Donaldson,44.0,Female,dixonchristopher@example.com,New York,2022-08-16,2024-07-01 11:45:40,Basic,167.25,2073.65,1.9,3,True
+CUST_0961,Richard Mcdonald,26.0,Male,lopezjoshua@example.com,Sydney,2023-11-27,,Premium,193.89,2985.17,3.3,6,False
+CUST_0962,Mark Boyd,43.0,Male,thomas11@example.net,Sydney,2023-07-16,2024-03-07 05:12:12,Basic,179.07,537.19,2.7,5,False
+CUST_0963,Erica Ward,64.0,Male,tammy42@example.net,Sydney,2023-01-26,,Basic,124.1,2211.82,3.1,10,False
+CUST_0964,Claire Johnson,39.0,Female,jamiegarcia@example.net,Tokyo,2024-07-01,,Basic,110.71,956.45,1.7,9,False
+CUST_0965,William Gonzalez,64.0,Male,triciabridges@example.org,Sydney,2022-06-06,2025-01-25 05:56:43,Basic,15.29,4936.79,3.7,1,False
+CUST_0966,Nicole Jenkins,47.0,Male,,Paris,2024-02-12,2024-03-07 05:59:34,Basic,56.86,2849.64,4.4,3,False
+CUST_0967,Veronica Baker,60.0,Male,ericbuck@example.com,London,2023-10-20,2024-02-23 15:29:45,Premium,97.33,3468.44,2.0,3,False
+CUST_0968,Jeremy Pierce,65.0,Male,pettysarah@example.org,New York,2024-07-22,2024-10-27 12:33:22,Basic,129.42,,3.0,6,False
+CUST_0969,Jacob Mccoy,34.0,Male,,Tokyo,2022-06-06,2024-07-15 22:41:36,Basic,115.88,564.22,4.9,8,False
+CUST_0970,Christina Thomas,,Female,sara60@example.com,Sydney,2023-06-26,,Enterprise,151.1,4881.77,2.3,3,False
+CUST_0971,Nathan Torres,53.0,Male,,Sydney,2024-10-31,,Basic,63.16,1502.67,3.4,3,False
+CUST_0972,Karen Dennis,18.0,Female,myerscarla@example.com,London,2022-06-30,,Premium,117.34,2176.66,1.4,6,False
+CUST_0973,Yolanda Fisher,25.0,Male,kelly06@example.org,London,2024-04-16,,Basic,26.75,3284.33,3.4,8,False
+CUST_0974,Todd Carey,66.0,Female,,Tokyo,2024-04-05,2024-03-17 03:46:15,Basic,88.6,221.02,1.4,6,False
+CUST_0975,Dr. Barbara Lee DVM,52.0,Female,rrodriguez@example.org,New York,2023-10-07,2024-05-17 14:19:48,Premium,152.53,4070.27,4.8,10,False
+CUST_0976,Jonathan Williams,69.0,Female,,Sydney,2022-11-09,,Basic,141.75,2729.23,3.9,3,True
+CUST_0977,Kathleen Baker,32.0,Female,contrerasamanda@example.net,Tokyo,2022-03-21,2024-11-29 23:38:43,Premium,198.22,,4.2,4,False
+CUST_0978,Amy Diaz,64.0,Male,ashley17@example.net,Paris,2023-06-07,2024-05-01 23:44:08,Basic,62.8,401.88,3.8,1,True
+CUST_0979,Miss Lori Hall DVM,39.0,Male,isaac61@example.net,Paris,2024-12-08,2024-12-01 08:58:15,Basic,104.66,896.24,3.4,8,True
+CUST_0980,Cassie Lewis,31.0,Female,eddieryan@example.org,Tokyo,2022-07-11,,Basic,72.61,4485.67,2.8,4,True
+CUST_0981,Nicholas Perez,43.0,Other,cynthiataylor@example.com,Sydney,2022-10-28,,Basic,93.71,3461.52,4.4,6,False
+CUST_0982,David Graham,45.0,Female,ashley06@example.net,Tokyo,2023-08-12,,Premium,172.82,1324.52,4.8,3,False
+CUST_0983,Nicole Choi,40.0,Female,mcculloughgeorge@example.org,Sydney,2022-09-02,,Basic,140.0,421.44,3.0,6,False
+CUST_0984,Diana Johnson,31.0,Female,tcampbell@example.com,London,2024-09-19,2024-06-01 18:08:53,Enterprise,177.66,,4.7,9,False
+CUST_0985,Anthony Franco,41.0,Female,greenerin@example.net,Tokyo,2022-12-24,2024-10-22 06:51:29,Enterprise,48.67,2904.8,3.3,9,False
+CUST_0986,Kimberly Terry,19.0,Male,courtney67@example.org,Sydney,2023-11-26,2024-02-09 06:52:27,Basic,175.94,2082.15,3.2,10,False
+CUST_0987,Michael Stewart,62.0,Female,henryjennifer@example.com,Tokyo,2022-11-24,2024-06-29 13:45:24,Basic,21.35,1881.7,2.8,3,False
+CUST_0988,Rebekah Moore,43.0,Other,robindominguez@example.org,Tokyo,2024-06-16,2024-07-23 05:50:49,Premium,178.83,1162.39,1.8,3,False
+CUST_0989,Jeffrey Burke,31.0,Male,samueljackson@example.net,Sydney,2022-09-23,2025-01-11 18:33:17,Enterprise,72.52,3381.1,1.0,4,False
+CUST_0990,James Smith,68.0,Female,alvaradomary@example.net,Sydney,2022-03-11,,Basic,69.77,4856.27,2.0,7,False
+CUST_0991,Ronald Anderson,24.0,Male,,New York,2024-11-11,2024-12-02 19:54:12,Basic,107.3,961.0,3.0,3,False
+CUST_0992,Daniel White,20.0,Female,jamesnielsen@example.com,Tokyo,2023-03-23,2024-07-05 23:39:58,Basic,188.73,3025.87,2.5,10,False
+CUST_0993,Rachel Jones,64.0,Male,jamesthomas@example.com,Paris,2023-07-04,,Premium,19.08,2178.51,2.8,8,False
+CUST_0994,Matthew Green,40.0,Female,cartertimothy@example.org,Tokyo,2024-11-20,,Basic,76.92,2288.77,4.9,8,True
+CUST_0995,Isaac Mason,63.0,Female,cartercynthia@example.com,Tokyo,2024-01-13,2024-06-23 19:25:02,Premium,172.75,1345.32,2.4,6,False
+CUST_0996,Sierra Mason,60.0,Male,melanie60@example.com,Sydney,2024-09-12,2024-07-24 10:43:49,Basic,85.25,4143.16,2.8,4,False
+CUST_0997,Dennis Mata,64.0,Female,,Tokyo,2024-06-29,2024-09-20 23:22:23,Basic,47.84,2477.75,1.5,5,True
+CUST_0998,Bryan Miller,,Female,glennbrown@example.org,Tokyo,2024-02-02,2024-12-02 12:26:55,Basic,90.71,2762.69,1.2,2,False
+CUST_0999,Kathleen Mathews,35.0,Other,nhoover@example.net,Paris,2025-01-23,2024-07-24 02:39:01,Basic,83.25,1593.33,4.1,6,True
+CUST_1000,Ralph Ayala,55.0,Male,kellyoliver@example.org,Sydney,2022-09-16,,Basic,183.93,990.86,3.3,3,False
